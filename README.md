@@ -6,6 +6,7 @@
 
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with Information Security related topics
+- Look at what I'm doing in [my blog](https://jh123x.com "Jh123x Blog")
 
 ![Junhua's github stats](https://github-readme-stats.vercel.app/api?username=jh123x)
 
