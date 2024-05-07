@@ -15,14 +15,9 @@
 {{- end}}
 
 #### Recent MRs
+
 {{range recentPullRequests 3}}
-    Title: {{.Title}}
-    URL: {{.URL}}
-    State: {{.State}}
-    CreatedAt: {{humanize .CreatedAt}}
-    Repository name: {{.Repo.Name}}
-    Repository description: {{.Repo.Description}}
-    Repository URL: {{.Repo.URL}}
+    [{{.Repo.Name}}: {{.Title}}]({{.URL}}) ({{.State}}): {{.Repo.Description}} ({{humanize .CreatedAt}})
 {{end}}
 
 #### 📜 My recent blog posts
@@ -33,10 +28,8 @@
 #### My Latest followers
 
 {{range followers 5}}
-    Username: {{.Login}}
-    Name: {{.Name}}
-    Avatar: {{.AvatarURL}}
-    URL: {{.URL}}
+    ![{{.Name}}]({{.AvatarURL}})
+    [{{.Name}}]({{.URL}})
 {{end}}
 
 ### Others
