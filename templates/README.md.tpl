@@ -6,7 +6,8 @@
 {{- end}}
 
 #### 🌱 What I'm currently learning
-- [LaTeX](https://www.latex-project.org)
+- [Rust](https://www.rust-lang.org/ "Rust")
+- [NextCloud](https://nextcloud.com/ "NextCloud")
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 3}}
