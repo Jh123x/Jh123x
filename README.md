@@ -20,29 +20,12 @@
 
 #### Recent MRs
 
-    Title: feat: Add types and update requirements.txt
-    URL: https://github.com/hsdevelops/cron-telebot/pull/30
-    State: OPEN
-    CreatedAt: 1 week ago
-    Repository name: hsdevelops/cron-telebot
-    Repository description: A telegram bot that schedules recurring messages
-    Repository URL: https://github.com/hsdevelops/cron-telebot
 
-    Title: refactor: add types, cleanup requirements.txt
-    URL: https://github.com/hsdevelops/cron-telebot/pull/28
-    State: CLOSED
-    CreatedAt: 4 weeks ago
-    Repository name: hsdevelops/cron-telebot
-    Repository description: A telegram bot that schedules recurring messages
-    Repository URL: https://github.com/hsdevelops/cron-telebot
+    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (1 week ago)
 
-    Title: refactor: clean repository
-    URL: https://github.com/hsdevelops/cron-telebot/pull/27
-    State: MERGED
-    CreatedAt: 1 month ago
-    Repository name: hsdevelops/cron-telebot
-    Repository description: A telegram bot that schedules recurring messages
-    Repository URL: https://github.com/hsdevelops/cron-telebot
+    [hsdevelops/cron-telebot: refactor: add types, cleanup requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/28) (CLOSED): A telegram bot that schedules recurring messages (4 weeks ago)
+
+    [hsdevelops/cron-telebot: refactor: clean repository](https://github.com/hsdevelops/cron-telebot/pull/27) (MERGED): A telegram bot that schedules recurring messages (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -54,30 +37,20 @@
 #### My Latest followers
 
 
-    Username: caprinux
-    Name: Elma
-    Avatar: https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4
-    URL: https://github.com/caprinux
+    ![Elma](https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4)
+    [Elma](https://github.com/caprinux)
 
-    Username: shyamjames
-    Name: Shyam James
-    Avatar: https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4
-    URL: https://github.com/shyamjames
+    ![Shyam James](https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4)
+    [Shyam James](https://github.com/shyamjames)
 
-    Username: Rohit-Patel1249
-    Name: Rohit Patel
-    Avatar: https://avatars.githubusercontent.com/u/56769276?v=4
-    URL: https://github.com/Rohit-Patel1249
+    ![Rohit Patel](https://avatars.githubusercontent.com/u/56769276?v=4)
+    [Rohit Patel](https://github.com/Rohit-Patel1249)
 
-    Username: knowkomal
-    Name: komal
-    Avatar: https://avatars.githubusercontent.com/u/84249857?u=b9238812f232fb361ccb690256ad3cd6840e6fae&amp;v=4
-    URL: https://github.com/knowkomal
+    ![komal](https://avatars.githubusercontent.com/u/84249857?u=b9238812f232fb361ccb690256ad3cd6840e6fae&amp;v=4)
+    [komal](https://github.com/knowkomal)
 
-    Username: kaboomzxc
-    Name: Ong JunZheng
-    Avatar: https://avatars.githubusercontent.com/u/46806333?v=4
-    URL: https://github.com/kaboomzxc
+    ![Ong JunZheng](https://avatars.githubusercontent.com/u/46806333?v=4)
+    [Ong JunZheng](https://github.com/kaboomzxc)
 
 
 ### Others
