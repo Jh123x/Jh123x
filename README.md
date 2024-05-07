@@ -18,11 +18,67 @@
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 1 month ago) - A telegram live timer bot
 - [Jh123x/go-validate](https://github.com/Jh123x/go-validate) ([1.0.3](https://github.com/Jh123x/go-validate/releases/tag/1.0.3), 1 month ago) - A go data validation library
 
+#### Recent MRs
+
+    Title: feat: Add types and update requirements.txt
+    URL: https://github.com/hsdevelops/cron-telebot/pull/30
+    State: OPEN
+    CreatedAt: 1 week ago
+    Repository name: hsdevelops/cron-telebot
+    Repository description: A telegram bot that schedules recurring messages
+    Repository URL: https://github.com/hsdevelops/cron-telebot
+
+    Title: refactor: add types, cleanup requirements.txt
+    URL: https://github.com/hsdevelops/cron-telebot/pull/28
+    State: CLOSED
+    CreatedAt: 4 weeks ago
+    Repository name: hsdevelops/cron-telebot
+    Repository description: A telegram bot that schedules recurring messages
+    Repository URL: https://github.com/hsdevelops/cron-telebot
+
+    Title: refactor: clean repository
+    URL: https://github.com/hsdevelops/cron-telebot/pull/27
+    State: MERGED
+    CreatedAt: 1 month ago
+    Repository name: hsdevelops/cron-telebot
+    Repository description: A telegram bot that schedules recurring messages
+    Repository URL: https://github.com/hsdevelops/cron-telebot
+
+
 #### 📜 My recent blog posts
 
 - [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (1 week ago)
 - [SG Taxes: A Guide to personal taxes in Singapore](https://jh123x.com/blog/2024/sg-taxes/) (1 month ago)
 - [Github as Cron](https://jh123x.com/blog/2024/github-as-a-cronjob/) (1 month ago)
+
+#### My Latest followers
+
+
+    Username: caprinux
+    Name: Elma
+    Avatar: https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4
+    URL: https://github.com/caprinux
+
+    Username: shyamjames
+    Name: Shyam James
+    Avatar: https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4
+    URL: https://github.com/shyamjames
+
+    Username: Rohit-Patel1249
+    Name: Rohit Patel
+    Avatar: https://avatars.githubusercontent.com/u/56769276?v=4
+    URL: https://github.com/Rohit-Patel1249
+
+    Username: knowkomal
+    Name: komal
+    Avatar: https://avatars.githubusercontent.com/u/84249857?u=b9238812f232fb361ccb690256ad3cd6840e6fae&amp;v=4
+    URL: https://github.com/knowkomal
+
+    Username: kaboomzxc
+    Name: Ong JunZheng
+    Avatar: https://avatars.githubusercontent.com/u/46806333?v=4
+    URL: https://github.com/kaboomzxc
+
 
 ### Others
 
