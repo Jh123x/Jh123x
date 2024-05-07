@@ -17,7 +17,7 @@
 #### Recent MRs
 
 {{range recentPullRequests 3}}
-    [{{.Repo.Name}}: {{.Title}}]({{.URL}}) ({{.State}}): {{.Repo.Description}} ({{humanize .CreatedAt}})
+-    [{{.Repo.Name}}: {{.Title}}]({{.URL}}) ({{.State}}): {{.Repo.Description}} ({{humanize .CreatedAt}})
 {{end}}
 
 #### 📜 My recent blog posts
@@ -27,9 +27,9 @@
 
 #### My Latest followers
 
-{{range followers 5}}
-    ![{{.Name}}]({{.AvatarURL}})
-    [{{.Name}}]({{.URL}})
+{{range followers 2}}
+-    ![{{.Name}}]({{.AvatarURL}})
+-    [{{.Name}}]({{.URL}})
 {{end}}
 
 ### Others
