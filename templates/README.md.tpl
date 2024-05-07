@@ -27,9 +27,11 @@
 
 #### My Latest followers
 
-{{range followers 2}}
--    ![{{.Name}}]({{.AvatarURL}})
--    [{{.Name}}]({{.URL}})
+{{range followers 3}}
+<figure>
+  <img src="{{.AvatarURL}}" alt="{{.Name}}"/>
+  <figcaption><a href="{{.URL}}">{{.Name}}</a></figcaption>
+</figure>
 {{end}}
 
 ### Others
