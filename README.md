@@ -37,11 +37,20 @@
 #### My Latest followers
 
 
--    ![Elma](https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4)
--    [Elma](https://github.com/caprinux)
+<figure>
+  <img src="https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4" alt="Elma"/>
+  <figcaption><a href="https://github.com/caprinux">Elma</a></figcaption>
+</figure>
 
--    ![Shyam James](https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4)
--    [Shyam James](https://github.com/shyamjames)
+<figure>
+  <img src="https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4" alt="Shyam James"/>
+  <figcaption><a href="https://github.com/shyamjames">Shyam James</a></figcaption>
+</figure>
+
+<figure>
+  <img src="https://avatars.githubusercontent.com/u/56769276?v=4" alt="Rohit Patel"/>
+  <figcaption><a href="https://github.com/Rohit-Patel1249">Rohit Patel</a></figcaption>
+</figure>
 
 
 ### Others
