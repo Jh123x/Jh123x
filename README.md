@@ -9,7 +9,8 @@
 - [Jh123x/go-validate](https://github.com/Jh123x/go-validate) - A go data validation library (1 month ago)
 
 #### 🌱 What I'm currently learning
-- [LaTeX](https://www.latex-project.org)
+- [Rust](https://www.rust-lang.org/ "Rust")
+- [NextCloud](https://nextcloud.com/ "NextCloud")
 
 #### 🔭 Latest releases I've contributed to
 
