@@ -14,7 +14,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://jh123x.com/blog/index.xml" }}
+{{range rss "https://jh123x.com/blog/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
