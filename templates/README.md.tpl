@@ -25,9 +25,9 @@
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### My Latest followers
+#### My Latest follower
 
-{{range followers 3}}
+{{range followers 1}}
 <figure>
   <img src="{{.AvatarURL}}" alt="{{.Name}}"/>
   <figcaption><a href="{{.URL}}">{{.Name}}</a></figcaption>
