@@ -4,6 +4,8 @@ I write a blog at https://jh123x.com.
 
 Skills: Golang / Python / Javascript.
 
+[![HitCount](https://hits.dwyl.com/jh123x/jh123x.svg?style=flat-square)](http://hits.dwyl.com/jh123x/jh123x)
+
 #### 👷 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
