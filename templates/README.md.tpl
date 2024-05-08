@@ -51,6 +51,4 @@ Skills: Golang / Python / Javascript.
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Jh123x/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Jh123x)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jh123x)  
