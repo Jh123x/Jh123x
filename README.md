@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [Jh123x/telegram-timer-bot: feat; add typing to the timer bot](https://github.com/Jh123x/telegram-timer-bot/pull/2) (OPEN): A telegram live timer bot (today)
+
 -    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (1 week ago)
 
 -    [hsdevelops/cron-telebot: refactor: add types, cleanup requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/28) (CLOSED): A telegram bot that schedules recurring messages (1 month ago)
-
--    [hsdevelops/cron-telebot: refactor: clean repository](https://github.com/hsdevelops/cron-telebot/pull/27) (MERGED): A telegram bot that schedules recurring messages (1 month ago)
 
 
 #### 📜 My recent blog posts
