@@ -8,7 +8,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 - [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 month ago)
@@ -29,14 +29,14 @@ Skills: Golang / Python / Javascript.
 
 -    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (1 week ago)
 
--    [hsdevelops/cron-telebot: refactor: add types, cleanup requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/28) (CLOSED): A telegram bot that schedules recurring messages (4 weeks ago)
+-    [hsdevelops/cron-telebot: refactor: add types, cleanup requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/28) (CLOSED): A telegram bot that schedules recurring messages (1 month ago)
 
 -    [hsdevelops/cron-telebot: refactor: clean repository](https://github.com/hsdevelops/cron-telebot/pull/27) (MERGED): A telegram bot that schedules recurring messages (1 month ago)
 
 
 #### 📜 My recent blog posts
 
-- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (today)
+- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (1 day ago)
 - [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (2 weeks ago)
 - [SG Taxes: A Guide to personal taxes in Singapore](https://jh123x.com/blog/2024/sg-taxes/) (1 month ago)
 
