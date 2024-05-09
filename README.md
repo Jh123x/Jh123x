@@ -8,11 +8,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (today)
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
-- [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 month ago)
-- [Jh123x/go-validate](https://github.com/Jh123x/go-validate) - A go data validation library (1 month ago)
 
 #### 🌱 What I'm currently learning
 - [Rust](https://www.rust-lang.org/ "Rust")
@@ -27,7 +27,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/telegram-timer-bot: feat: add types, tests and ci](https://github.com/Jh123x/telegram-timer-bot/pull/2) (OPEN): A telegram live timer bot (today)
+-    [Jh123x/telegram-timer-bot: feat: add types, tests and refactor](https://github.com/Jh123x/telegram-timer-bot/pull/2) (MERGED): A telegram live timer bot (today)
 
 -    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (1 week ago)
 
