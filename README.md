@@ -8,9 +8,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (2 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (3 days ago)
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
@@ -27,7 +27,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/telegram-timer-bot: feat: add types, tests and refactor](https://github.com/Jh123x/telegram-timer-bot/pull/2) (MERGED): A telegram live timer bot (2 days ago)
+-    [Jh123x/telegram-timer-bot: feat: add types, tests and refactor](https://github.com/Jh123x/telegram-timer-bot/pull/2) (MERGED): A telegram live timer bot (3 days ago)
 
 -    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (1 week ago)
 
@@ -36,7 +36,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (3 days ago)
+- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (4 days ago)
 - [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (2 weeks ago)
 - [SG Taxes: A Guide to personal taxes in Singapore](https://jh123x.com/blog/2024/sg-taxes/) (1 month ago)
 
