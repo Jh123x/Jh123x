@@ -9,10 +9,10 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/GoTest](https://github.com/Jh123x/GoTest) - A faster testing library using generics (today)
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (3 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
 #### 🌱 What I'm currently learning
 - [Rust](https://www.rust-lang.org/ "Rust")
