@@ -36,9 +36,9 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
+- [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (1 day ago)
 - [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (1 week ago)
 - [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (3 weeks ago)
-- [SG Taxes: A Guide to personal taxes in Singapore](https://jh123x.com/blog/2024/sg-taxes/) (1 month ago)
 
 #### My Latest follower
 
