@@ -12,8 +12,8 @@ Skills: Golang / Python / Javascript.
 {{- end}}
 
 #### 🌱 What I'm currently learning
-- [Rust](https://www.rust-lang.org/ "Rust")
-- [NextCloud](https://nextcloud.com/ "NextCloud")
+- [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
+- [Redis](https://redis.io/ "Redis")
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 3}}
