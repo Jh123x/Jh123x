@@ -15,8 +15,8 @@ Skills: Golang / Python / Javascript.
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (1 week ago)
 
 #### 🌱 What I'm currently learning
-- [Rust](https://www.rust-lang.org/ "Rust")
-- [NextCloud](https://nextcloud.com/ "NextCloud")
+- [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
+- [Redis](https://redis.io/ "Redis")
 
 #### 🔭 Latest releases I've contributed to
 
