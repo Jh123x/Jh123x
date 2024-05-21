@@ -8,8 +8,8 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (today)
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (1 day ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/GoTest](https://github.com/Jh123x/GoTest) - A faster testing library using generics (1 week ago)
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
@@ -22,7 +22,7 @@ Skills: Golang / Python / Javascript.
 
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.8.2](https://github.com/jpanther/congo/releases/tag/v2.8.2), 1 month ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 1 month ago) - A telegram live timer bot
-- [Jh123x/go-validate](https://github.com/Jh123x/go-validate) ([1.0.3](https://github.com/Jh123x/go-validate/releases/tag/1.0.3), 1 month ago) - A go data validation library
+- [Jh123x/go-validate](https://github.com/Jh123x/go-validate) ([1.0.3](https://github.com/Jh123x/go-validate/releases/tag/1.0.3), 2 months ago) - A go data validation library
 
 #### Recent MRs
 
@@ -36,7 +36,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (6 days ago)
+- [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (1 week ago)
 - [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (1 week ago)
 - [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (3 weeks ago)
 
