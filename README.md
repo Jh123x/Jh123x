@@ -8,11 +8,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
 - [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (5 days ago)
 - [Jh123x/GoTest](https://github.com/Jh123x/GoTest) - A faster testing library using generics (1 week ago)
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (2 weeks ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 
 #### 🌱 What I'm currently learning
 - [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: refactor: refactor to typescript](https://github.com/Jh123x/jh123x.github.io/pull/12) (OPEN): Website to Show my projects / competitions (today)
+-    [Jh123x/jh123x.github.io: ci: update ci](https://github.com/Jh123x/jh123x.github.io/pull/13) (OPEN): Website to Show my projects / competitions (today)
+
+-    [Jh123x/jh123x.github.io: refactor: refactor to typescript](https://github.com/Jh123x/jh123x.github.io/pull/12) (MERGED): Website to Show my projects / competitions (today)
 
 -    [Jh123x/telegram-timer-bot: feat: add types, tests and refactor](https://github.com/Jh123x/telegram-timer-bot/pull/2) (MERGED): A telegram live timer bot (2 weeks ago)
-
--    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (3 weeks ago)
 
 
 #### 📜 My recent blog posts
