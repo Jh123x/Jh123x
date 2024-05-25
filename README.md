@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [Jh123x/jh123x.github.io: refactor: refactor to typescript](https://github.com/Jh123x/jh123x.github.io/pull/12) (OPEN): Website to Show my projects / competitions (today)
+
 -    [Jh123x/telegram-timer-bot: feat: add types, tests and refactor](https://github.com/Jh123x/telegram-timer-bot/pull/2) (MERGED): A telegram live timer bot (2 weeks ago)
 
 -    [hsdevelops/cron-telebot: feat: Add types and update requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/30) (OPEN): A telegram bot that schedules recurring messages (3 weeks ago)
-
--    [hsdevelops/cron-telebot: refactor: add types, cleanup requirements.txt](https://github.com/hsdevelops/cron-telebot/pull/28) (CLOSED): A telegram bot that schedules recurring messages (1 month ago)
 
 
 #### 📜 My recent blog posts
