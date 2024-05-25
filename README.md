@@ -27,7 +27,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: ci: update ci](https://github.com/Jh123x/jh123x.github.io/pull/13) (OPEN): Website to Show my projects / competitions (today)
+-    [Jh123x/jh123x.github.io: ci: update ci](https://github.com/Jh123x/jh123x.github.io/pull/13) (MERGED): Website to Show my projects / competitions (today)
 
 -    [Jh123x/jh123x.github.io: refactor: refactor to typescript](https://github.com/Jh123x/jh123x.github.io/pull/12) (MERGED): Website to Show my projects / competitions (today)
 
