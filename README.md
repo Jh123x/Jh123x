@@ -8,9 +8,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (4 days ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (5 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (5 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (6 days ago)
 - [Jh123x/GoTest](https://github.com/Jh123x/GoTest) - A faster testing library using generics (2 weeks ago)
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (3 weeks ago)
 
@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/typescript-http-server: test: fix test and ci](https://github.com/Jh123x/typescript-http-server/pull/1) (MERGED): A Http server in typescript (5 days ago)
+-    [Jh123x/typescript-http-server: test: fix test and ci](https://github.com/Jh123x/typescript-http-server/pull/1) (MERGED): A Http server in typescript (6 days ago)
 
--    [Jh123x/jh123x.github.io: ci: update ci](https://github.com/Jh123x/jh123x.github.io/pull/13) (MERGED): Website to Show my projects / competitions (5 days ago)
+-    [Jh123x/jh123x.github.io: ci: update ci](https://github.com/Jh123x/jh123x.github.io/pull/13) (MERGED): Website to Show my projects / competitions (6 days ago)
 
--    [Jh123x/jh123x.github.io: refactor: refactor to typescript](https://github.com/Jh123x/jh123x.github.io/pull/12) (MERGED): Website to Show my projects / competitions (5 days ago)
+-    [Jh123x/jh123x.github.io: refactor: refactor to typescript](https://github.com/Jh123x/jh123x.github.io/pull/12) (MERGED): Website to Show my projects / competitions (6 days ago)
 
 
 #### 📜 My recent blog posts
