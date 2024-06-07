@@ -8,8 +8,8 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (5 days ago)
 - [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/GoTest](https://github.com/Jh123x/GoTest) - A faster testing library using generics (3 weeks ago)
@@ -27,7 +27,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [yonasadiel/thermopylae: Add Configurations](https://github.com/yonasadiel/thermopylae/pull/1) (OPEN): My Personal Chrome Theme (today)
+-    [yonasadiel/thermopylae: Add Configurations](https://github.com/yonasadiel/thermopylae/pull/1) (OPEN): My Personal Chrome Theme (1 day ago)
 
 -    [Jh123x/typescript-http-server: test: fix test and ci](https://github.com/Jh123x/typescript-http-server/pull/1) (MERGED): A Http server in typescript (1 week ago)
 
@@ -37,7 +37,7 @@ Skills: Golang / Python / Javascript.
 #### 📜 My recent blog posts
 
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (3 weeks ago)
-- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (4 weeks ago)
+- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (1 month ago)
 - [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (1 month ago)
 
 #### My Latest follower
