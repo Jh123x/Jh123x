@@ -9,10 +9,10 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (today)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 week ago)
 - [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
-- [Jh123x/GoTest](https://github.com/Jh123x/GoTest) - A faster testing library using generics (4 weeks ago)
 
 #### 🌱 What I'm currently learning
 - [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
