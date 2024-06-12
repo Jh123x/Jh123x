@@ -44,8 +44,8 @@ Skills: Golang / Python / Javascript.
 
 
 <figure>
-  <img src="https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4" alt="Elma"/>
-  <figcaption><a href="https://github.com/caprinux">Elma</a></figcaption>
+  <img src="https://avatars.githubusercontent.com/u/131158451?u=d11fb2415d1acf99108aa3e2801f972509a294c7&amp;v=4" alt="Eugene Oh Yun Zheng"/>
+  <figcaption><a href="https://github.com/EugeneOYZ1203n">Eugene Oh Yun Zheng</a></figcaption>
 </figure>
 
 
