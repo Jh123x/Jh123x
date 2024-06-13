@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [yonasadiel/thermopylae: feat: add local storage](https://github.com/yonasadiel/thermopylae/pull/2) (OPEN): My Personal Chrome Theme (today)
+
 -    [yonasadiel/thermopylae: Add Configurations](https://github.com/yonasadiel/thermopylae/pull/1) (OPEN): My Personal Chrome Theme (1 week ago)
 
 -    [Jh123x/typescript-http-server: test: fix test and ci](https://github.com/Jh123x/typescript-http-server/pull/1) (MERGED): A Http server in typescript (2 weeks ago)
-
--    [Jh123x/jh123x.github.io: ci: update ci](https://github.com/Jh123x/jh123x.github.io/pull/13) (MERGED): Website to Show my projects / competitions (2 weeks ago)
 
 
 #### 📜 My recent blog posts
