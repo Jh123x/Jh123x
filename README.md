@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (today)
+
 -    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (1 day ago)
 
 -    [yonasadiel/thermopylae: feat: add local storage](https://github.com/yonasadiel/thermopylae/pull/2) (MERGED): My Personal Chrome Theme (5 days ago)
-
--    [yonasadiel/thermopylae: Add Configurations](https://github.com/yonasadiel/thermopylae/pull/1) (OPEN): My Personal Chrome Theme (1 week ago)
 
 
 #### 📜 My recent blog posts
