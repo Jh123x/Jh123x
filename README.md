@@ -8,8 +8,8 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (4 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (5 days ago)
 - [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 week ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
 - [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (3 weeks ago)
@@ -27,9 +27,9 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (today)
+-    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (1 day ago)
 
--    [yonasadiel/thermopylae: feat: add local storage](https://github.com/yonasadiel/thermopylae/pull/2) (MERGED): My Personal Chrome Theme (4 days ago)
+-    [yonasadiel/thermopylae: feat: add local storage](https://github.com/yonasadiel/thermopylae/pull/2) (MERGED): My Personal Chrome Theme (5 days ago)
 
 -    [yonasadiel/thermopylae: Add Configurations](https://github.com/yonasadiel/thermopylae/pull/1) (OPEN): My Personal Chrome Theme (1 week ago)
 
