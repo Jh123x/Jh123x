@@ -8,11 +8,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (2 days ago)
-- [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 week ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
-- [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (3 weeks ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (3 days ago)
+- [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (2 weeks ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 weeks ago)
+- [Jh123x/typescript-http-server](https://github.com/Jh123x/typescript-http-server) - A Http server in typescript (4 weeks ago)
 
 #### 🌱 What I'm currently learning
 - [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
@@ -27,18 +27,18 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (2 days ago)
+-    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (3 days ago)
 
--    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (4 days ago)
+-    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (5 days ago)
 
--    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (5 days ago)
+-    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (6 days ago)
 
 
 #### 📜 My recent blog posts
 
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (1 month ago)
 - [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (1 month ago)
-- [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (1 month ago)
+- [GreyCTF 2024 Baby Web](https://jh123x.com/blog/2024/greyctf24-baby-web/) (2 months ago)
 
 #### My Latest follower
 
