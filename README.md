@@ -8,7 +8,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (1 week ago)
 - [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 weeks ago)
@@ -21,7 +21,7 @@ Skills: Golang / Python / Javascript.
 #### 🔭 Latest releases I've contributed to
 
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.8.2](https://github.com/jpanther/congo/releases/tag/v2.8.2), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 2 months ago) - A telegram live timer bot
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 3 months ago) - A telegram live timer bot
 - [Jh123x/go-validate](https://github.com/Jh123x/go-validate) ([1.0.3](https://github.com/Jh123x/go-validate/releases/tag/1.0.3), 3 months ago) - A go data validation library
 
 #### Recent MRs
@@ -31,7 +31,7 @@ Skills: Golang / Python / Javascript.
 
 -    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
 
--    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (1 week ago)
+-    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (2 weeks ago)
 
 
 #### 📜 My recent blog posts
