@@ -44,8 +44,8 @@ Skills: Golang / Python / Javascript.
 
 
 <figure>
-  <img src="https://avatars.githubusercontent.com/u/131158451?u=d11fb2415d1acf99108aa3e2801f972509a294c7&amp;v=4" alt="Eugene Oh Yun Zheng"/>
-  <figcaption><a href="https://github.com/EugeneOYZ1203n">Eugene Oh Yun Zheng</a></figcaption>
+  <img src="https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4" alt="Athoul Muwafiq"/>
+  <figcaption><a href="https://github.com/athoulmuwafiq">Athoul Muwafiq</a></figcaption>
 </figure>
 
 
