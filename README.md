@@ -36,9 +36,9 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
+- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (today)
 - [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (1 day ago)
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (2 months ago)
-- [Beautifying your Github Profile / Readme files](https://jh123x.com/blog/2024/beautifying-your-github-page/) (2 months ago)
 
 #### My Latest follower
 
