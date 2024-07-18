@@ -8,9 +8,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (4 days ago)
-- [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (3 weeks ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (5 days ago)
+- [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (4 weeks ago)
 - [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
@@ -27,17 +27,17 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (3 weeks ago)
+-    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (4 weeks ago)
 
--    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (4 weeks ago)
+-    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 month ago)
 
 -    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (1 month ago)
 
 
 #### 📜 My recent blog posts
 
-- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (4 days ago)
-- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (5 days ago)
+- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (5 days ago)
+- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (6 days ago)
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (2 months ago)
 
 #### My Latest follower
