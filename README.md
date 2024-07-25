@@ -44,8 +44,8 @@ Skills: Golang / Python / Javascript.
 
 
 <figure>
-  <img src="https://avatars.githubusercontent.com/u/1527648?u=9b9ed328f45640b4bc29594ffae22380a3048ae7&amp;v=4" alt="Xiaorui Wang"/>
-  <figcaption><a href="https://github.com/vintagewang">Xiaorui Wang</a></figcaption>
+  <img src="https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4" alt="Athoul Muwafiq"/>
+  <figcaption><a href="https://github.com/athoulmuwafiq">Athoul Muwafiq</a></figcaption>
 </figure>
 
 
