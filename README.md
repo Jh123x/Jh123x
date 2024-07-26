@@ -8,7 +8,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (1 week ago)
 - [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (1 month ago)
 - [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 month ago)
@@ -37,7 +37,7 @@ Skills: Golang / Python / Javascript.
 #### 📜 My recent blog posts
 
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (1 week ago)
-- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (1 week ago)
+- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (2 weeks ago)
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (2 months ago)
 
 #### My Latest follower
