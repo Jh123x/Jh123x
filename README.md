@@ -44,8 +44,8 @@ Skills: Golang / Python / Javascript.
 
 
 <figure>
-  <img src="https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4" alt="Athoul Muwafiq"/>
-  <figcaption><a href="https://github.com/athoulmuwafiq">Athoul Muwafiq</a></figcaption>
+  <img src="https://avatars.githubusercontent.com/u/39386799?u=dbade32e5b6f167757906a09e70a2e1f8d51f1f2&amp;v=4" alt="NobleMajo"/>
+  <figcaption><a href="https://github.com/NobleMajo">NobleMajo</a></figcaption>
 </figure>
 
 
