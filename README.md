@@ -43,15 +43,15 @@ Skills: Golang / Python / Javascript.
 #### My Latest follower
 
 
-[NobleMajo](https://github.com/NobleMajo)
+- [NobleMajo](https://github.com/NobleMajo)
 
-[Athoul Muwafiq](https://github.com/athoulmuwafiq)
+- [Athoul Muwafiq](https://github.com/athoulmuwafiq)
 
-[Eugene Oh Yun Zheng](https://github.com/EugeneOYZ1203n)
+- [Eugene Oh Yun Zheng](https://github.com/EugeneOYZ1203n)
 
-[Elma](https://github.com/caprinux)
+- [Elma](https://github.com/caprinux)
 
-[Shyam James](https://github.com/shyamjames)
+- [Shyam James](https://github.com/shyamjames)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
