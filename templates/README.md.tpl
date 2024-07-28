@@ -35,13 +35,13 @@ Skills: Golang / Python / Javascript.
 
 {{range followers 5}}
 [![{{.Name}}]({{.AvatarURL}} "{{.Name}} Avatar")]({{.URL}})
-
 {{end}}
 
+#### Other Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jh123x)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jh123x)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh123x)](https://github.com/anuraghazra/github-readme-stats)
