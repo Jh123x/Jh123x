@@ -43,10 +43,7 @@ Skills: Golang / Python / Javascript.
 #### My Latest follower
 
 
-<figure>
-  <img src="https://avatars.githubusercontent.com/u/39386799?u=dbade32e5b6f167757906a09e70a2e1f8d51f1f2&amp;v=4" alt="NobleMajo"/>
-  <figcaption><a href="https://github.com/NobleMajo">NobleMajo</a></figcaption>
-</figure>
+![[NobleMajo](https://github.com/NobleMajo)](https://avatars.githubusercontent.com/u/39386799?u=dbade32e5b6f167757906a09e70a2e1f8d51f1f2&amp;v=4 "NobleMajo Avatar")
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
