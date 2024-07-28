@@ -34,10 +34,7 @@ Skills: Golang / Python / Javascript.
 #### My Latest follower
 
 {{range followers 1}}
-<figure>
-  <img src="{{.AvatarURL}}" alt="{{.Name}}"/>
-  <figcaption><a href="{{.URL}}">{{.Name}}</a></figcaption>
-</figure>
+![[{{.Name}}]({{.URL}})]({{.AvatarURL}} "{{.Name}} Avatar")
 {{end}}
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
