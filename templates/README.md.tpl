@@ -33,8 +33,8 @@ Skills: Golang / Python / Javascript.
 
 #### My Latest follower
 
-{{range followers 1}}
-![[{{.Name}}]({{.URL}})]({{.AvatarURL}} "{{.Name}} Avatar")
+{{range followers 5}}
+[{{.Name}}]({{.URL}})
 {{end}}
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
