@@ -43,8 +43,6 @@ Skills: Golang / Python / Javascript.
 #### My Latest follower
 
 
-[![NobleMajo](https://avatars.githubusercontent.com/u/39386799?u=dbade32e5b6f167757906a09e70a2e1f8d51f1f2&amp;v=4 "NobleMajo Avatar")](https://github.com/NobleMajo)
-
 [![Athoul Muwafiq](https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4 "Athoul Muwafiq Avatar")](https://github.com/athoulmuwafiq)
 
 [![Eugene Oh Yun Zheng](https://avatars.githubusercontent.com/u/131158451?u=d11fb2415d1acf99108aa3e2801f972509a294c7&amp;v=4 "Eugene Oh Yun Zheng Avatar")](https://github.com/EugeneOYZ1203n)
@@ -52,6 +50,8 @@ Skills: Golang / Python / Javascript.
 [![Elma](https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4 "Elma Avatar")](https://github.com/caprinux)
 
 [![Shyam James](https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4 "Shyam James Avatar")](https://github.com/shyamjames)
+
+[![Rohit Patel](https://avatars.githubusercontent.com/u/56769276?v=4 "Rohit Patel Avatar")](https://github.com/Rohit-Patel1249)
 
 
 #### Other Statistics
