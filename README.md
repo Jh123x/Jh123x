@@ -8,8 +8,8 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (1 day ago)
 - [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (2 weeks ago)
 - [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (1 month ago)
 - [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot) - A telegram bot that schedules recurring messages (1 month ago)
@@ -21,7 +21,7 @@ Skills: Golang / Python / Javascript.
 #### 🔭 Latest releases I've contributed to
 
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.8.2](https://github.com/jpanther/congo/releases/tag/v2.8.2), 3 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 3 months ago) - A telegram live timer bot
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 4 months ago) - A telegram live timer bot
 - [Jh123x/go-validate](https://github.com/Jh123x/go-validate) ([1.0.3](https://github.com/Jh123x/go-validate/releases/tag/1.0.3), 4 months ago) - A go data validation library
 
 #### Recent MRs
