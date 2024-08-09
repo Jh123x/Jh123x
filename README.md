@@ -9,9 +9,9 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (today)
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (today)
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (3 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (1 day ago)
+- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (4 days ago)
 - [yonasadiel/thermopylae](https://github.com/yonasadiel/thermopylae) - My Personal Chrome Theme (1 month ago)
 
 #### 🌱 What I'm currently learning
@@ -20,7 +20,7 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 6 days ago) - A Go Fork of mermaid-cli
+- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 1 week ago) - A Go Fork of mermaid-cli
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.8.2](https://github.com/jpanther/congo/releases/tag/v2.8.2), 3 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.0](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.0), 4 months ago) - A telegram live timer bot
 
@@ -37,7 +37,7 @@ Skills: Golang / Python / Javascript.
 #### 📜 My recent blog posts
 
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (3 weeks ago)
-- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (3 weeks ago)
+- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (4 weeks ago)
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (2 months ago)
 
 #### My Latest follower
