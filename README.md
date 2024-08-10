@@ -8,11 +8,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
-- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (1 day ago)
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (4 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (2 days ago)
+- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (5 days ago)
 
 #### 🌱 What I'm currently learning
 - [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
@@ -36,7 +36,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (3 weeks ago)
+- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (4 weeks ago)
 - [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (4 weeks ago)
 - [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (2 months ago)
 
