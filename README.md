@@ -9,7 +9,7 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 days ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (today)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
 - [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (3 days ago)
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (6 days ago)
@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [Jh123x/buildergen: docs: update documentation](https://github.com/Jh123x/buildergen/pull/1) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (today)
+
 -    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (1 month ago)
 
 -    [jpanther/congo: fix: fix unsafe url](https://github.com/jpanther/congo/pull/901) (OPEN): A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 month ago)
-
--    [yonasadiel/thermopylae: test: add test cases and test ci](https://github.com/yonasadiel/thermopylae/pull/3) (OPEN): My Personal Chrome Theme (1 month ago)
 
 
 #### 📜 My recent blog posts
