@@ -8,11 +8,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
-- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (3 days ago)
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (6 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (4 days ago)
+- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (1 week ago)
 
 #### 🌱 What I'm currently learning
 - [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
@@ -20,14 +20,14 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.0.1](https://github.com/Jh123x/buildergen/releases/tag/v0.0.1), today) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.0.1](https://github.com/Jh123x/buildergen/releases/tag/v0.0.1), 1 day ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 1 week ago) - A Go Fork of mermaid-cli
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.8.2](https://github.com/jpanther/congo/releases/tag/v2.8.2), 3 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 
 #### Recent MRs
 
 
--    [Jh123x/buildergen: docs: update documentation](https://github.com/Jh123x/buildergen/pull/1) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (today)
+-    [Jh123x/buildergen: docs: update documentation](https://github.com/Jh123x/buildergen/pull/1) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
 
 -    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (1 month ago)
 
@@ -36,9 +36,9 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (4 weeks ago)
+- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (1 month ago)
 - [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (1 month ago)
-- [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (2 months ago)
+- [JavaScript: The Event Loop and Micro/Macro Task Queues](https://jh123x.com/blog/2024/learning-more-about-javascript/) (3 months ago)
 
 #### My Latest follower
 
