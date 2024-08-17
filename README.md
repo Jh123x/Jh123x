@@ -27,11 +27,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/buildergen: docs update documentation for files](https://github.com/Jh123x/buildergen/pull/2) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (today)
+-    [Jh123x/buildergen: chore: add make file](https://github.com/Jh123x/buildergen/pull/3) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (today)
+
+-    [Jh123x/buildergen: docs update documentation for files](https://github.com/Jh123x/buildergen/pull/2) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (today)
 
 -    [Jh123x/buildergen: docs: update documentation](https://github.com/Jh123x/buildergen/pull/1) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
-
--    [yonasadiel/thermopylae: feat: allow background images](https://github.com/yonasadiel/thermopylae/pull/5) (OPEN): My Personal Chrome Theme (1 month ago)
 
 
 #### 📜 My recent blog posts
