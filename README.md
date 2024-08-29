@@ -8,10 +8,10 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
-- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (2 weeks ago)
+- [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (3 weeks ago)
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) - A Go Fork of mermaid-cli (3 weeks ago)
 
 #### 🌱 What I'm currently learning
@@ -20,14 +20,14 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.0.4](https://github.com/Jh123x/buildergen/releases/tag/v0.0.4), 1 day ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.0.4](https://github.com/Jh123x/buildergen/releases/tag/v0.0.4), 2 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 3 weeks ago) - A Go Fork of mermaid-cli
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.8.2](https://github.com/jpanther/congo/releases/tag/v2.8.2), 4 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: many improvements and tries](https://github.com/Jh123x/buildergen/pull/4) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
+-    [Jh123x/buildergen: feat: many improvements and tries](https://github.com/Jh123x/buildergen/pull/4) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (2 days ago)
 
 -    [Jh123x/buildergen: chore: add make file](https://github.com/Jh123x/buildergen/pull/3) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 
