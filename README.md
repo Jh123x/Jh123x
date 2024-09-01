@@ -4,19 +4,16 @@ I write a blog at https://jh123x.com.
 
 Skills: Golang / Python / Javascript.
 
-[![HitCount](https://hits.dwyl.com/jh123x/jh123x.svg?style=flat-square)](http://hits.dwyl.com/jh123x/jh123x)
-
 #### 👷 What I'm currently working on
 
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/overwatch-tools](https://github.com/Jh123x/overwatch-tools) - Overwatch tools (1 day ago)
+- [Jh123x/overwatch-tools](https://github.com/Jh123x/overwatch-tools) - Overwatch tools (today)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (3 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
 - [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (3 weeks ago)
 
 #### 🌱 What I'm currently learning
-- [TypeScript](https://www.typescriptlang.org/ "TypeScript Language")
-- [Redis](https://redis.io/ "Redis")
+- Code Generation
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,7 +37,16 @@ Skills: Golang / Python / Javascript.
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (1 month ago)
 - [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (1 month ago)
 
-#### My Latest follower
+#### Statistics
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jh123x)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh123x)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My Latest followers
 
 
 [![Clayton Kehoe](https://avatars.githubusercontent.com/u/118750525?u=588ffcf7212e3e560dad019bff8a65b991b9d723&amp;v=4 "Clayton Kehoe Avatar")](https://github.com/kehoecj)
@@ -52,13 +58,3 @@ Skills: Golang / Python / Javascript.
 [![Elma](https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4 "Elma Avatar")](https://github.com/caprinux)
 
 [![Shyam James](https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4 "Shyam James Avatar")](https://github.com/shyamjames)
-
-
-#### Other Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jh123x)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh123x)](https://github.com/anuraghazra/github-readme-stats)
