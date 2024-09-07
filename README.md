@@ -17,14 +17,14 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.0.7](https://github.com/Jh123x/buildergen/releases/tag/v0.0.7), 1 day ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.1.0](https://github.com/Jh123x/buildergen/releases/tag/v0.1.0), today) - Buildergen is a code generation tool to create a builder class for generating structs
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.9.0](https://github.com/jpanther/congo/releases/tag/v2.9.0), 1 week ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 1 month ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (today)
+-    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (today)
 
 -    [Jh123x/buildergen: feat: more optimizations](https://github.com/Jh123x/buildergen/pull/6) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
 
