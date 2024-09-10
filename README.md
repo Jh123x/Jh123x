@@ -6,9 +6,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
 - [Jh123x/overwatch-tools](https://github.com/Jh123x/overwatch-tools) - Overwatch tools (1 week ago)
 - [Jh123x/codecrafters-shell-go](https://github.com/Jh123x/codecrafters-shell-go) -  (1 month ago)
 
@@ -17,25 +17,25 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.1.0](https://github.com/Jh123x/buildergen/releases/tag/v0.1.0), 2 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.1.0](https://github.com/Jh123x/buildergen/releases/tag/v0.1.0), 3 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.9.0](https://github.com/jpanther/congo/releases/tag/v2.9.0), 1 week ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 1 month ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (2 days ago)
+-    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (3 days ago)
 
--    [Jh123x/buildergen: feat: more optimizations](https://github.com/Jh123x/buildergen/pull/6) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (3 days ago)
+-    [Jh123x/buildergen: feat: more optimizations](https://github.com/Jh123x/buildergen/pull/6) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (4 days ago)
 
--    [Jh123x/buildergen: feat: improve import parsing](https://github.com/Jh123x/buildergen/pull/5) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
+-    [Jh123x/buildergen: feat: improve import parsing](https://github.com/Jh123x/buildergen/pull/5) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 
 
 #### 📜 My recent blog posts
 
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (1 week ago)
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (1 month ago)
-- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (1 month ago)
+- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (2 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
