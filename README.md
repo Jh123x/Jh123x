@@ -24,11 +24,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [Jh123x/buildergen: feat: add yaml file support for code generation](https://github.com/Jh123x/buildergen/pull/8) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (today)
+
 -    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (5 days ago)
 
 -    [Jh123x/buildergen: feat: more optimizations](https://github.com/Jh123x/buildergen/pull/6) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
-
--    [Jh123x/buildergen: feat: improve import parsing](https://github.com/Jh123x/buildergen/pull/5) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 
 
 #### 📜 My recent blog posts
