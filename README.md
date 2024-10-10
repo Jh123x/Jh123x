@@ -6,7 +6,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (3 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 - [Jh123x/overwatch-tools](https://github.com/Jh123x/overwatch-tools) - Overwatch tools (1 month ago)
@@ -26,7 +26,7 @@ Skills: Golang / Python / Javascript.
 
 -    [jpanther/congo: chore: update multilingual](https://github.com/jpanther/congo/pull/942) (CLOSED): A powerful, lightweight theme for Hugo built with Tailwind CSS. (2 weeks ago)
 
--    [Jh123x/buildergen: feat: add yaml file support for code generation](https://github.com/Jh123x/buildergen/pull/8) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (3 weeks ago)
+-    [Jh123x/buildergen: feat: add yaml file support for code generation](https://github.com/Jh123x/buildergen/pull/8) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (4 weeks ago)
 
 -    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 
@@ -35,7 +35,7 @@ Skills: Golang / Python / Javascript.
 
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (1 month ago)
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (2 months ago)
-- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (2 months ago)
+- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (3 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
