@@ -24,11 +24,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (today)
+
 -    [jpanther/congo: chore: update multilingual](https://github.com/jpanther/congo/pull/942) (CLOSED): A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 month ago)
 
 -    [Jh123x/buildergen: feat: add yaml file support for code generation](https://github.com/Jh123x/buildergen/pull/8) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
-
--    [Jh123x/buildergen: feat: parser rewrite to improve runtime](https://github.com/Jh123x/buildergen/pull/7) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 
 
 #### 📜 My recent blog posts
