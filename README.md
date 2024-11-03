@@ -7,8 +7,8 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [May-Jay-Dev/expense-tracker](https://github.com/May-Jay-Dev/expense-tracker) - Expense Tracker API (today)
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (3 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (4 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 - [Jh123x/overwatch-tools](https://github.com/Jh123x/overwatch-tools) - Overwatch tools (2 months ago)
 
@@ -17,14 +17,14 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.2.1](https://github.com/Jh123x/buildergen/releases/tag/v0.2.1), 3 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.2.1](https://github.com/Jh123x/buildergen/releases/tag/v0.2.1), 4 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.9.0](https://github.com/jpanther/congo/releases/tag/v2.9.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 3 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (4 days ago)
+-    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (5 days ago)
 
 -    [jpanther/congo: chore: update multilingual](https://github.com/jpanther/congo/pull/942) (CLOSED): A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 month ago)
 
