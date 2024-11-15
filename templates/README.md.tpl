@@ -33,8 +33,6 @@ Skills: Golang / Python / Javascript.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jh123x)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh123x)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Latest followers
