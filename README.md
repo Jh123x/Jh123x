@@ -6,8 +6,8 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [May-Jay-Dev/expense-tracker](https://github.com/May-Jay-Dev/expense-tracker) - Expense Tracker API (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 months ago)
 - [Jh123x/overwatch-tools](https://github.com/Jh123x/overwatch-tools) - Overwatch tools (2 months ago)
@@ -47,7 +47,7 @@ Skills: Golang / Python / Javascript.
 #### My Latest followers
 
 
-[![](https://avatars.githubusercontent.com/u/188471110?u=22df34608279f4c9be6ae866d2968cc73c543f6a&amp;v=4 " Avatar")](https://github.com/Kevindevstar)
+[![Kevin](https://avatars.githubusercontent.com/u/188471110?u=22df34608279f4c9be6ae866d2968cc73c543f6a&amp;v=4 "Kevin Avatar")](https://github.com/Kevindevstar)
 
 [![Clayton Kehoe](https://avatars.githubusercontent.com/u/118750525?u=588ffcf7212e3e560dad019bff8a65b991b9d723&amp;v=4 "Clayton Kehoe Avatar")](https://github.com/kehoecj)
 
