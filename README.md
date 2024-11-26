@@ -6,7 +6,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [May-Jay-Dev/expense-tracker](https://github.com/May-Jay-Dev/expense-tracker) - Expense Tracker API (3 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 months ago)
@@ -24,7 +24,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (3 weeks ago)
+-    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (4 weeks ago)
 
 -    [jpanther/congo: chore: update multilingual](https://github.com/jpanther/congo/pull/942) (CLOSED): A powerful, lightweight theme for Hugo built with Tailwind CSS. (2 months ago)
 
@@ -33,7 +33,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (2 months ago)
+- [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (3 months ago)
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (4 months ago)
 - [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (4 months ago)
 
