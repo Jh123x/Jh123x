@@ -33,9 +33,9 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
+- [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (1 day ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (3 months ago)
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (4 months ago)
-- [CodeCrafters: A project based way to learn programming.](https://jh123x.com/blog/2024/codecrafters/) (4 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
