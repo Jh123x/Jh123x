@@ -9,7 +9,9 @@ Skills: Golang / Python / Javascript.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 What I'm currently learning
+#### 🌱 What I'm currently learning/doing
+- NextJS
+- Python backend
 - Code Generation
 
 #### 🔭 Latest releases I've contributed to
