@@ -12,7 +12,9 @@ Skills: Golang / Python / Javascript.
 - [May-Jay-Dev/expense-tracker](https://github.com/May-Jay-Dev/expense-tracker) - Expense Tracker API (1 month ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 months ago)
 
-#### 🌱 What I'm currently learning
+#### 🌱 What I'm currently learning/doing
+- NextJS
+- Python backend
 - Code Generation
 
 #### 🔭 Latest releases I've contributed to
