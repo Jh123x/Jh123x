@@ -49,8 +49,6 @@ Skills: Golang / Python / Javascript.
 #### My Latest followers
 
 
-[![](https://avatars.githubusercontent.com/u/154518541?u=f657b03e65b96995e31f8a32490bcdf941472877&amp;v=4 " Avatar")](https://github.com/thegithubmenace)
-
 [![Clayton Kehoe](https://avatars.githubusercontent.com/u/118750525?u=588ffcf7212e3e560dad019bff8a65b991b9d723&amp;v=4 "Clayton Kehoe Avatar")](https://github.com/kehoecj)
 
 [![Athoul Muwafiq](https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4 "Athoul Muwafiq Avatar")](https://github.com/athoulmuwafiq)
@@ -58,3 +56,5 @@ Skills: Golang / Python / Javascript.
 [![Eugene Oh Yun Zheng](https://avatars.githubusercontent.com/u/131158451?u=d11fb2415d1acf99108aa3e2801f972509a294c7&amp;v=4 "Eugene Oh Yun Zheng Avatar")](https://github.com/EugeneOYZ1203n)
 
 [![Elma](https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4 "Elma Avatar")](https://github.com/caprinux)
+
+[![Shyam James](https://avatars.githubusercontent.com/u/73977553?u=efbf14a25c6d1a823404e01e260a073b0a5b31df&amp;v=4 "Shyam James Avatar")](https://github.com/shyamjames)
