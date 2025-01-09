@@ -6,7 +6,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 weeks ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 - [May-Jay-Dev/expense-tracker](https://github.com/May-Jay-Dev/expense-tracker) - Expense Tracker API (2 months ago)
@@ -26,7 +26,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (OPEN): Website to Show my projects / competitions (4 days ago)
+-    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (OPEN): Website to Show my projects / competitions (5 days ago)
 
 -    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
 
@@ -37,7 +37,7 @@ Skills: Golang / Python / Javascript.
 
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (1 month ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (4 months ago)
-- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (5 months ago)
+- [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (6 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
