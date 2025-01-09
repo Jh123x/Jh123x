@@ -49,6 +49,8 @@ Skills: Golang / Python / Javascript.
 #### My Latest followers
 
 
+[![itsKayWat](https://avatars.githubusercontent.com/u/185666968?u=d211c661b45fb11b6374b44e16695058b96b5d10&amp;v=4 "itsKayWat Avatar")](https://github.com/itsKayWat)
+
 [![Benjamincup](https://avatars.githubusercontent.com/u/33036584?u=acc3f7833cf5844ddf3d3d34cb12ac8c34670460&amp;v=4 "Benjamincup Avatar")](https://github.com/Benjamin-cup)
 
 [![Clayton Kehoe](https://avatars.githubusercontent.com/u/118750525?u=588ffcf7212e3e560dad019bff8a65b991b9d723&amp;v=4 "Clayton Kehoe Avatar")](https://github.com/kehoecj)
@@ -56,5 +58,3 @@ Skills: Golang / Python / Javascript.
 [![Athoul Muwafiq](https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4 "Athoul Muwafiq Avatar")](https://github.com/athoulmuwafiq)
 
 [![Eugene Oh Yun Zheng](https://avatars.githubusercontent.com/u/131158451?u=d11fb2415d1acf99108aa3e2801f972509a294c7&amp;v=4 "Eugene Oh Yun Zheng Avatar")](https://github.com/EugeneOYZ1203n)
-
-[![Elma](https://avatars.githubusercontent.com/u/76640319?u=1e7343ab8580c4ddafa6ebbb5a0f4cbb51383ad3&amp;v=4 "Elma Avatar")](https://github.com/caprinux)
