@@ -6,11 +6,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 weeks ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 - [May-Jay-Dev/expense-tracker](https://github.com/May-Jay-Dev/expense-tracker) - Expense Tracker API (2 months ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 months ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -26,7 +26,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (OPEN): Website to Show my projects / competitions (5 days ago)
+-    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (MERGED): Website to Show my projects / competitions (5 days ago)
 
 -    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
 
