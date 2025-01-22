@@ -6,7 +6,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (1 month ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
@@ -30,7 +30,7 @@ Skills: Golang / Python / Javascript.
 
 -    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
 
--    [jpanther/congo: chore: update multilingual](https://github.com/jpanther/congo/pull/942) (CLOSED): A powerful, lightweight theme for Hugo built with Tailwind CSS. (3 months ago)
+-    [jpanther/congo: chore: update multilingual](https://github.com/jpanther/congo/pull/942) (CLOSED): A powerful, lightweight theme for Hugo built with Tailwind CSS. (4 months ago)
 
 
 #### 📜 My recent blog posts
