@@ -26,11 +26,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
+-    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (today)
+
 -    [Jh123x/buildergen: feat: write multiple builders to same file](https://github.com/Jh123x/buildergen/pull/11) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
 
 -    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (MERGED): Website to Show my projects / competitions (1 month ago)
-
--    [Jh123x/buildergen: feat: add go internal AST as a parser mode](https://github.com/Jh123x/buildergen/pull/10) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (3 months ago)
 
 
 #### 📜 My recent blog posts
