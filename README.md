@@ -6,11 +6,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (today)
-- [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (3 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
+- [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (4 days ago)
 - [Jh123x/codecrafters-dns-server-python](https://github.com/Jh123x/codecrafters-dns-server-python) -  (1 week ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -19,16 +19,16 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 5 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 6 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.10.0](https://github.com/jpanther/congo/releases/tag/v2.10.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 6 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
 
--    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (today)
+-    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (1 day ago)
 
--    [Jh123x/buildergen: feat: write multiple builders to same file](https://github.com/Jh123x/buildergen/pull/11) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
+-    [Jh123x/buildergen: feat: write multiple builders to same file](https://github.com/Jh123x/buildergen/pull/11) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 
 -    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (MERGED): Website to Show my projects / competitions (1 month ago)
 
