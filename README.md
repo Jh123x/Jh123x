@@ -7,7 +7,7 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/CNY-Blackjack-simulation](https://github.com/Jh123x/CNY-Blackjack-simulation) -  (today)
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (1 week ago)
 - [Jh123x/codecrafters-dns-server-python](https://github.com/Jh123x/codecrafters-dns-server-python) -  (2 weeks ago)
@@ -19,7 +19,7 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 1 week ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 2 weeks ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.10.0](https://github.com/jpanther/congo/releases/tag/v2.10.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 6 months ago) - A Go Fork of mermaid-cli
 
