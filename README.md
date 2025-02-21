@@ -6,9 +6,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (1 day ago)
-- [Jh123x/CNY-Blackjack-simulation](https://github.com/Jh123x/CNY-Blackjack-simulation) -  (3 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (2 days ago)
+- [Jh123x/CNY-Blackjack-simulation](https://github.com/Jh123x/CNY-Blackjack-simulation) -  (4 days ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [Jh123x/codecrafters-dns-server-python](https://github.com/Jh123x/codecrafters-dns-server-python) -  (2 weeks ago)
 
