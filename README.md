@@ -55,6 +55,6 @@ Skills: Golang / Python / Javascript.
 
 [![Benjamincup](https://avatars.githubusercontent.com/u/33036584?u=acc3f7833cf5844ddf3d3d34cb12ac8c34670460&amp;v=4 "Benjamincup Avatar")](https://github.com/Benjamin-cup)
 
-[![Clayton Kehoe](https://avatars.githubusercontent.com/u/118750525?v=4 "Clayton Kehoe Avatar")](https://github.com/kehoecj)
+[![](https://avatars.githubusercontent.com/u/118750525?v=4 " Avatar")](https://github.com/kehoecj)
 
 [![Athoul Muwafiq](https://avatars.githubusercontent.com/u/35678534?u=6c88d042c330c3e543a1028be27a1ebba7ddec0d&amp;v=4 "Athoul Muwafiq Avatar")](https://github.com/athoulmuwafiq)
