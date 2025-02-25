@@ -6,7 +6,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
 - [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (6 days ago)
 - [Jh123x/CNY-Blackjack-simulation](https://github.com/Jh123x/CNY-Blackjack-simulation) -  (1 week ago)
