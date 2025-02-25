@@ -6,9 +6,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
-- [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (5 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/bootdev-pokedex](https://github.com/Jh123x/bootdev-pokedex) -  (6 days ago)
 - [Jh123x/CNY-Blackjack-simulation](https://github.com/Jh123x/CNY-Blackjack-simulation) -  (1 week ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 weeks ago)
 
@@ -19,7 +19,7 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), today) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 1 day ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 3 weeks ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 6 months ago) - A Go Fork of mermaid-cli
 
