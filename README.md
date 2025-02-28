@@ -7,10 +7,10 @@ Skills: Golang / Python / Javascript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (1 day ago)
-- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (2 days ago)
-- [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (2 days ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (2 days ago)
+- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (3 days ago)
+- [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (3 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -19,9 +19,9 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 3 days ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 4 days ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 3 weeks ago) - Buildergen is a code generation tool to create a builder class for generating structs
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 6 months ago) - A Go Fork of mermaid-cli
+- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 7 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
@@ -35,7 +35,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (2 months ago)
+- [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (3 months ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (6 months ago)
 - [Housing for Profit in SG: Not as it seems](https://jh123x.com/blog/2024/housing-in-sg/) (7 months ago)
 
