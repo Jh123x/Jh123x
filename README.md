@@ -6,8 +6,8 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (6 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (2 days ago)
+- [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (1 week ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (1 week ago)
 - [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
@@ -20,7 +20,7 @@ Skills: Golang / Python / Javascript.
 #### 🔭 Latest releases I've contributed to
 
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 1 week ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 4 weeks ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 1 month ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 7 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
@@ -30,7 +30,7 @@ Skills: Golang / Python / Javascript.
 
 -    [Jh123x/buildergen: feat: write multiple builders to same file](https://github.com/Jh123x/buildergen/pull/11) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 
--    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (MERGED): Website to Show my projects / competitions (1 month ago)
+-    [Jh123x/jh123x.github.io: feat: port to next js](https://github.com/Jh123x/jh123x.github.io/pull/25) (MERGED): Website to Show my projects / competitions (2 months ago)
 
 
 #### 📜 My recent blog posts
