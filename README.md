@@ -6,7 +6,7 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (1 week ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (1 week ago)
 - [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (1 week ago)
@@ -35,7 +35,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (2 weeks ago)
+- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (3 weeks ago)
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (3 months ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (6 months ago)
 
