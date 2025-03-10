@@ -10,7 +10,7 @@ Skills: Golang / Python / Javascript.
 - [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (1 week ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (1 week ago)
 - [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (1 week ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -19,14 +19,14 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 1 week ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 2 weeks ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 1 month ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 7 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
 
--    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (4 weeks ago)
+-    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
 
 -    [Jh123x/buildergen: feat: write multiple builders to same file](https://github.com/Jh123x/buildergen/pull/11) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 
