@@ -26,7 +26,7 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/telegram-bot-on-browser: feat: migrate to tsx](https://github.com/Jh123x/telegram-bot-on-browser/pull/217) (MERGED): A Telegram bot that runs on the browser (2 days ago)
+-    [Jh123x/telegram-bot-on-browser: feat: migrate to tsx](https://github.com/Jh123x/telegram-bot-on-browser/pull/217) (MERGED): A Telegram bot that runs on the browser (3 days ago)
 
 -    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
 
@@ -35,7 +35,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (3 weeks ago)
+- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (4 weeks ago)
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (3 months ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (6 months ago)
 
