@@ -6,11 +6,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
 - [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (2 weeks ago)
-- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (2 weeks ago)
-- [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (2 weeks ago)
+- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (3 weeks ago)
+- [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (3 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -26,16 +26,16 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/telegram-bot-on-browser: feat: migrate to tsx](https://github.com/Jh123x/telegram-bot-on-browser/pull/217) (MERGED): A Telegram bot that runs on the browser (4 days ago)
+-    [Jh123x/telegram-bot-on-browser: feat: show responses from users](https://github.com/Jh123x/telegram-bot-on-browser/pull/218) (MERGED): A Telegram bot that runs on the browser (1 day ago)
+
+-    [Jh123x/telegram-bot-on-browser: feat: migrate to tsx](https://github.com/Jh123x/telegram-bot-on-browser/pull/217) (MERGED): A Telegram bot that runs on the browser (5 days ago)
 
 -    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
-
--    [Jh123x/buildergen: feat: write multiple builders to same file](https://github.com/Jh123x/buildergen/pull/11) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (1 month ago)
 
 
 #### 📜 My recent blog posts
 
-- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (4 weeks ago)
+- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (1 month ago)
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (3 months ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (6 months ago)
 
