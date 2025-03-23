@@ -6,11 +6,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
 - [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (3 weeks ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (3 weeks ago)
-- [Jh123x/book-bot](https://github.com/Jh123x/book-bot) -  (3 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -26,11 +26,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/telegram-bot-on-browser: feat: show responses from users](https://github.com/Jh123x/telegram-bot-on-browser/pull/218) (MERGED): A Telegram bot that runs on the browser (5 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add trust bank](https://github.com/Jh123x/SG-HYSA-Calculator/pull/4) (MERGED): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/telegram-bot-on-browser: feat: migrate to tsx](https://github.com/Jh123x/telegram-bot-on-browser/pull/217) (MERGED): A Telegram bot that runs on the browser (1 week ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update stand chart](https://github.com/Jh123x/SG-HYSA-Calculator/pull/3) (MERGED): A High Yield Savings Account Calculator (1 day ago)
 
--    [Oudwins/zog: feat: add not operator](https://github.com/Oudwins/zog/pull/76) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update new interest rates](https://github.com/Jh123x/SG-HYSA-Calculator/pull/2) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
 
 #### 📜 My recent blog posts
