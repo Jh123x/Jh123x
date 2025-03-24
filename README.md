@@ -6,9 +6,9 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 days ago)
 - [Jh123x/static-site-generator](https://github.com/Jh123x/static-site-generator) -  (3 weeks ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (3 weeks ago)
 
@@ -19,18 +19,18 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 3 weeks ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 4 weeks ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 1 month ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 7 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: add trust bank](https://github.com/Jh123x/SG-HYSA-Calculator/pull/4) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add trust bank](https://github.com/Jh123x/SG-HYSA-Calculator/pull/4) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: update stand chart](https://github.com/Jh123x/SG-HYSA-Calculator/pull/3) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update stand chart](https://github.com/Jh123x/SG-HYSA-Calculator/pull/3) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: update new interest rates](https://github.com/Jh123x/SG-HYSA-Calculator/pull/2) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update new interest rates](https://github.com/Jh123x/SG-HYSA-Calculator/pull/2) (MERGED): A High Yield Savings Account Calculator (3 days ago)
 
 
 #### 📜 My recent blog posts
