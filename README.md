@@ -26,11 +26,11 @@ Skills: Golang / Python / Javascript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (1 week ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (2 weeks ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: ui redesign](https://github.com/Jh123x/SG-HYSA-Calculator/pull/5) (MERGED): A High Yield Savings Account Calculator (2 weeks ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: add trust bank](https://github.com/Jh123x/SG-HYSA-Calculator/pull/4) (MERGED): A High Yield Savings Account Calculator (2 weeks ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add trust bank](https://github.com/Jh123x/SG-HYSA-Calculator/pull/4) (MERGED): A High Yield Savings Account Calculator (3 weeks ago)
 
 
 #### 📜 My recent blog posts
