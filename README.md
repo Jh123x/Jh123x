@@ -6,11 +6,11 @@ Skills: Golang / Python / Javascript.
 
 #### 👷 What I'm currently working on
 
+- [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (today)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
-- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (3 days ago)
-- [Jh123x/codecrafters-interpreter-go](https://github.com/Jh123x/codecrafters-interpreter-go) -  (4 days ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
+- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (4 days ago)
+- [Jh123x/codecrafters-interpreter-go](https://github.com/Jh123x/codecrafters-interpreter-go) -  (5 days ago)
 
 #### 🌱 What I'm currently learning/doing
 - NextJS
@@ -19,9 +19,9 @@ Skills: Golang / Python / Javascript.
 
 #### 🔭 Latest releases I've contributed to
 
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.19.1](https://github.com/Oudwins/zog/releases/tag/v0.19.1), 4 days ago) - Go with Zod inspired simple schema validation
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 1 month ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
-- [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 8 months ago) - A Go Fork of mermaid-cli
 
 #### Recent MRs
 
@@ -35,7 +35,7 @@ Skills: Golang / Python / Javascript.
 
 #### 📜 My recent blog posts
 
-- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (1 month ago)
+- [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (2 months ago)
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (4 months ago)
 - [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (7 months ago)
 
@@ -49,6 +49,8 @@ Skills: Golang / Python / Javascript.
 #### My Latest followers
 
 
+[![FileDonkey](https://avatars.githubusercontent.com/u/206841003?u=20d05bac8e720606b6de672376f0e53c6d96c6e6&amp;v=4 "FileDonkey Avatar")](https://github.com/filedonkey)
+
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
 [![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
@@ -56,5 +58,3 @@ Skills: Golang / Python / Javascript.
 [![Meow](https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
 
 [![itsKayWat](https://avatars.githubusercontent.com/u/185666968?u=d211c661b45fb11b6374b44e16695058b96b5d10&amp;v=4 "itsKayWat Avatar")](https://github.com/itsKayWat)
-
-[![Benjamincup](https://avatars.githubusercontent.com/u/33036584?u=acc3f7833cf5844ddf3d3d34cb12ac8c34670460&amp;v=4 "Benjamincup Avatar")](https://github.com/Benjamin-cup)
