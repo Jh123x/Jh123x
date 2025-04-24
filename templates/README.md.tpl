@@ -2,7 +2,7 @@
 
 I write a blog at https://jh123x.com.
 
-Skills: Golang / Python / Javascript.
+Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 {{range recentContributions 5}}
@@ -10,9 +10,9 @@ Skills: Golang / Python / Javascript.
 {{- end}}
 
 #### 🌱 What I'm currently learning/doing
-- NextJS
-- Python backend
-- Code Generation
+- Blogging
+- TypeScript
+- Golang
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 3}}
