@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (today)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 week ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
@@ -19,8 +19,8 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.19.2](https://github.com/Oudwins/zog/releases/tag/v0.19.2), 6 days ago) - Go with Zod inspired simple schema validation
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 1 month ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.19.2](https://github.com/Oudwins/zog/releases/tag/v0.19.2), 1 week ago) - Go with Zod inspired simple schema validation
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -37,7 +37,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (2 months ago)
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (4 months ago)
-- [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (7 months ago)
+- [Project based Learning: BuilderGen](https://jh123x.com/blog/2024/golang-simple-optimization/) (8 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
