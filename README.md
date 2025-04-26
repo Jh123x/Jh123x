@@ -7,10 +7,10 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 week ago)
 - [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (1 week ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
-- [Jh123x/codecrafters-interpreter-go](https://github.com/Jh123x/codecrafters-interpreter-go) -  (1 week ago)
+- [Jh123x/codecrafters-interpreter-go](https://github.com/Jh123x/codecrafters-interpreter-go) -  (2 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -26,7 +26,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (3 weeks ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (4 weeks ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: ui redesign](https://github.com/Jh123x/SG-HYSA-Calculator/pull/5) (MERGED): A High Yield Savings Account Calculator (1 month ago)
 
