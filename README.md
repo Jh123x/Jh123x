@@ -6,10 +6,10 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 day ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (2 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 week ago)
-- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (1 week ago)
+- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (2 weeks ago)
 - [Jh123x/codecrafters-interpreter-go](https://github.com/Jh123x/codecrafters-interpreter-go) -  (2 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.19.2](https://github.com/Oudwins/zog/releases/tag/v0.19.2), 1 week ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.20.0](https://github.com/Oudwins/zog/releases/tag/v0.20.0), 1 day ago) - Go with Zod inspired simple schema validation
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
