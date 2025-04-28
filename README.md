@@ -6,11 +6,11 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (2 days ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (3 days ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 week ago)
-- [Jh123x/Asteroids](https://github.com/Jh123x/Asteroids) -  (2 weeks ago)
-- [Jh123x/codecrafters-interpreter-go](https://github.com/Jh123x/codecrafters-interpreter-go) -  (2 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -19,14 +19,14 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.20.0](https://github.com/Oudwins/zog/releases/tag/v0.20.0), 1 day ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.20.0](https://github.com/Oudwins/zog/releases/tag/v0.20.0), 2 days ago) - Go with Zod inspired simple schema validation
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (4 weeks ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (1 month ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: ui redesign](https://github.com/Jh123x/SG-HYSA-Calculator/pull/5) (MERGED): A High Yield Savings Account Calculator (1 month ago)
 
@@ -49,7 +49,7 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
-[![FileDonkey](https://avatars.githubusercontent.com/u/206841003?u=20d05bac8e720606b6de672376f0e53c6d96c6e6&amp;v=4 "FileDonkey Avatar")](https://github.com/filedonkey)
+[![FileDonkey](https://avatars.githubusercontent.com/u/206841003?u=7e89c2a936d7f1c35c8cb4d70f2c393e672ede40&amp;v=4 "FileDonkey Avatar")](https://github.com/filedonkey)
 
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
