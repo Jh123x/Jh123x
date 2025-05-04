@@ -6,9 +6,9 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (6 days ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (6 days ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 week ago)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 week ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (2 weeks ago)
 
@@ -21,7 +21,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.20.0](https://github.com/Oudwins/zog/releases/tag/v0.20.0), 1 week ago) - Go with Zod inspired simple schema validation
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 3 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
@@ -35,7 +35,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
-- [Consolidating all my pages.](https://jh123x.com/blog/2025/page-consolidation/) (6 days ago)
+- [Consolidating all my pages.](https://jh123x.com/blog/2025/page-consolidation/) (1 week ago)
 - [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (2 months ago)
 - [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (5 months ago)
 
