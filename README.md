@@ -6,9 +6,9 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (3 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (4 days ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 week ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 - [Jh123x/Github-Cronjob-Example](https://github.com/Jh123x/Github-Cronjob-Example) - An example of using github as a cronjob runner. (1 month ago)
 
