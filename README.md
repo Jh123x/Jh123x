@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (6 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
@@ -26,9 +26,9 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Oudwins/zog: feat: partial feature implementation](https://github.com/Oudwins/zog/pull/157) (OPEN): Go with Zod inspired simple schema validation (4 weeks ago)
+-    [Oudwins/zog: feat: partial feature implementation](https://github.com/Oudwins/zog/pull/157) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
 
--    [Oudwins/zog: feat: add other not operators](https://github.com/Oudwins/zog/pull/155) (MERGED): Go with Zod inspired simple schema validation (4 weeks ago)
+-    [Oudwins/zog: feat: add other not operators](https://github.com/Oudwins/zog/pull/155) (MERGED): Go with Zod inspired simple schema validation (1 month ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: add bank of china](https://github.com/Jh123x/SG-HYSA-Calculator/pull/8) (MERGED): A High Yield Savings Account Calculator (2 months ago)
 
