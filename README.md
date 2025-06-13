@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
@@ -26,7 +26,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/go-collections: feat: add queues](https://github.com/Jh123x/go-collections/pull/1) (OPEN): A collection of go data structures (1 day ago)
+-    [Jh123x/go-collections: feat: add queues](https://github.com/Jh123x/go-collections/pull/1) (MERGED): A collection of go data structures (2 days ago)
 
 -    [Oudwins/zog: feat: partial feature implementation](https://github.com/Oudwins/zog/pull/157) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
 
