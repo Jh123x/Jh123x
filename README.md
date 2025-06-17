@@ -6,9 +6,9 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (3 days ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (5 days ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (5 days ago)
+- [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (6 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (6 days ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
@@ -19,18 +19,18 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.2](https://github.com/Oudwins/zog/releases/tag/v0.21.2), 1 day ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.2](https://github.com/Oudwins/zog/releases/tag/v0.21.2), 2 days ago) - Go with Zod inspired simple schema validation
 - [jpanther/congo](https://github.com/jpanther/congo) ([v2.11.0](https://github.com/jpanther/congo/releases/tag/v2.11.0), 3 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 4 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/go-collections: feat: add queues](https://github.com/Jh123x/go-collections/pull/1) (MERGED): A collection of go data structures (5 days ago)
+-    [Jh123x/go-collections: feat: add heap](https://github.com/Jh123x/go-collections/pull/3) (MERGED): A collection of go data structures (1 day ago)
 
--    [Oudwins/zog: feat: partial feature implementation](https://github.com/Oudwins/zog/pull/157) (OPEN): Go with Zod inspired simple schema validation (1 month ago)
+-    [Jh123x/go-collections: feat: add stack](https://github.com/Jh123x/go-collections/pull/2) (MERGED): A collection of go data structures (1 day ago)
 
--    [Oudwins/zog: feat: add other not operators](https://github.com/Oudwins/zog/pull/155) (MERGED): Go with Zod inspired simple schema validation (1 month ago)
+-    [Jh123x/go-collections: feat: add queues](https://github.com/Jh123x/go-collections/pull/1) (MERGED): A collection of go data structures (6 days ago)
 
 
 #### 📜 My recent blog posts
