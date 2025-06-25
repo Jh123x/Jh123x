@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 week ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
@@ -30,7 +30,7 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/go-collections: feat: add stack](https://github.com/Jh123x/go-collections/pull/2) (MERGED): A collection of go data structures (1 week ago)
 
--    [Jh123x/go-collections: feat: add queues](https://github.com/Jh123x/go-collections/pull/1) (MERGED): A collection of go data structures (1 week ago)
+-    [Jh123x/go-collections: feat: add queues](https://github.com/Jh123x/go-collections/pull/1) (MERGED): A collection of go data structures (2 weeks ago)
 
 
 #### 📜 My recent blog posts
