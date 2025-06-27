@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 month ago)
@@ -35,9 +35,9 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
+- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (2 days ago)
 - [Consolidating all my pages.](https://jh123x.com/blog/2025/page-consolidation/) (2 months ago)
 - [Blackjack for Chinese New Year](https://jh123x.com/blog/2025/chinese-new-year-blackjack/) (4 months ago)
-- [A look at high yield saving accounts in Singapore](https://jh123x.com/blog/2024/high-yield-saving-accounts/) (6 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
