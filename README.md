@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.3](https://github.com/Oudwins/zog/releases/tag/v0.21.3), 3 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.3](https://github.com/Oudwins/zog/releases/tag/v0.21.3), 4 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 5 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 11 months ago) - A Go Fork of mermaid-cli
 
@@ -30,7 +30,7 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/go-collections: feat: add trie](https://github.com/Jh123x/go-collections/pull/4) (MERGED): A collection of go data structures (1 week ago)
 
--    [Jh123x/go-collections: feat: add heap](https://github.com/Jh123x/go-collections/pull/3) (MERGED): A collection of go data structures (2 weeks ago)
+-    [Jh123x/go-collections: feat: add heap](https://github.com/Jh123x/go-collections/pull/3) (MERGED): A collection of go data structures (3 weeks ago)
 
 
 #### 📜 My recent blog posts
