@@ -8,7 +8,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 weeks ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
 
@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.3](https://github.com/Oudwins/zog/releases/tag/v0.21.3), 5 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.3](https://github.com/Oudwins/zog/releases/tag/v0.21.3), 6 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 5 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Jh123x/mermaid-cli-go](https://github.com/Jh123x/mermaid-cli-go) ([v0.0.2](https://github.com/Jh123x/mermaid-cli-go/releases/tag/v0.0.2), 11 months ago) - A Go Fork of mermaid-cli
 
@@ -36,7 +36,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 - [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (1 week ago)
-- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (1 week ago)
+- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (2 weeks ago)
 - [Consolidating all my pages.](https://jh123x.com/blog/2025/page-consolidation/) (2 months ago)
 
 #### Statistics
