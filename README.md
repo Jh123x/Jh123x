@@ -9,7 +9,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (3 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
-- [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (1 month ago)
+- [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (2 months ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -37,7 +37,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (1 week ago)
 - [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (3 weeks ago)
-- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (3 weeks ago)
+- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (4 weeks ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
