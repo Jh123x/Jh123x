@@ -6,8 +6,8 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (3 days ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (4 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 month ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (2 months ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
@@ -25,9 +25,9 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (3 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (4 days ago)
 
 -    [Jh123x/go-collections: ci: add permission for content read](https://github.com/Jh123x/go-collections/pull/5) (MERGED): A collection of go data structures (1 month ago)
 
@@ -48,12 +48,12 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
+[![Ali Yaşar](https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4 "Ali Yaşar Avatar")](https://github.com/helallao)
+
+[![Seckin Yasar](https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4 "Seckin Yasar Avatar")](https://github.com/seckinyasar)
+
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
 [![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
 
 [![Meow](https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
-
-[![itsKayWat](https://avatars.githubusercontent.com/u/185666968?u=d211c661b45fb11b6374b44e16695058b96b5d10&amp;v=4 "itsKayWat Avatar")](https://github.com/itsKayWat)
-
-[![Benjamincup](https://avatars.githubusercontent.com/u/33036584?u=acc3f7833cf5844ddf3d3d34cb12ac8c34670460&amp;v=4 "Benjamincup Avatar")](https://github.com/Benjamin-cup)
