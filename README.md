@@ -25,7 +25,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (5 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (6 days ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (1 week ago)
 
@@ -34,7 +34,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
-- [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (4 weeks ago)
+- [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (1 month ago)
 - [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (1 month ago)
 - [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (1 month ago)
 
