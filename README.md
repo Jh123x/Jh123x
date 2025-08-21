@@ -48,6 +48,8 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
+[![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
+
 [![Ali Yaşar](https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4 "Ali Yaşar Avatar")](https://github.com/helallao)
 
 [![Seckin Yasar](https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4 "Seckin Yasar Avatar")](https://github.com/seckinyasar)
@@ -55,5 +57,3 @@ Skills: Golang / Python / TypeScript.
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
 [![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
-
-[![Meow](https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
