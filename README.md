@@ -9,7 +9,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 month ago)
-- [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (2 months ago)
+- [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (3 months ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.5](https://github.com/Oudwins/zog/releases/tag/v0.21.5), 4 weeks ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.5](https://github.com/Oudwins/zog/releases/tag/v0.21.5), 1 month ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 6 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
