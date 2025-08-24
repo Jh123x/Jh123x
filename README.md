@@ -36,7 +36,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (1 month ago)
 - [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (1 month ago)
-- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (1 month ago)
+- [Expanding VM Disk space in Proxmox running Ubuntu](https://jh123x.com/blog/2025/extending-vm-space-in-proxmox/) (2 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
