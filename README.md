@@ -19,13 +19,13 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.6](https://github.com/Oudwins/zog/releases/tag/v0.21.6), 2 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.6](https://github.com/Oudwins/zog/releases/tag/v0.21.6), 3 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 6 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (2 weeks ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (3 weeks ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (3 weeks ago)
 
