@@ -6,8 +6,8 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (3 weeks ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 weeks ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (4 weeks ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (2 months ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (3 months ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 months ago)
@@ -20,14 +20,14 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.6](https://github.com/Oudwins/zog/releases/tag/v0.21.6), 1 week ago) - Go with Zod inspired simple schema validation
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 6 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 7 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
 -    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (3 weeks ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (3 weeks ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (4 weeks ago)
 
 -    [Jh123x/go-collections: ci: add permission for content read](https://github.com/Jh123x/go-collections/pull/5) (MERGED): A collection of go data structures (2 months ago)
 
