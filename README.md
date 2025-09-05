@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (2 months ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (3 months ago)
@@ -25,9 +25,9 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: feat: update optimizing prefetch](https://github.com/Jh123x/jh123x.github.io/pull/34) (MERGED): Website to Show my projects / competitions (3 days ago)
+-    [Jh123x/jh123x.github.io: feat: update optimizing prefetch](https://github.com/Jh123x/jh123x.github.io/pull/34) (MERGED): Website to Show my projects / competitions (4 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (4 weeks ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: move ad script to app controlled](https://github.com/Jh123x/SG-HYSA-Calculator/pull/14) (OPEN): A High Yield Savings Account Calculator (1 month ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: update uob and cleanup](https://github.com/Jh123x/SG-HYSA-Calculator/pull/13) (MERGED): A High Yield Savings Account Calculator (1 month ago)
 
