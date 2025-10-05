@@ -27,7 +27,7 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/go-collections: feat: update worker pool](https://github.com/Jh123x/go-collections/pull/7) (MERGED): A collection of go data structures (3 weeks ago)
 
--    [Jh123x/go-collections: feat: add refresh cache](https://github.com/Jh123x/go-collections/pull/6) (MERGED): A collection of go data structures (4 weeks ago)
+-    [Jh123x/go-collections: feat: add refresh cache](https://github.com/Jh123x/go-collections/pull/6) (MERGED): A collection of go data structures (1 month ago)
 
 -    [Jh123x/jh123x.github.io: feat: update optimizing prefetch](https://github.com/Jh123x/jh123x.github.io/pull/34) (MERGED): Website to Show my projects / competitions (1 month ago)
 
