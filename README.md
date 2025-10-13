@@ -48,11 +48,11 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
+[![Triet Trinh](https://avatars.githubusercontent.com/u/1650997?u=9abc2c570e589518e913b4d34e3292d3800de60c&amp;v=4 "Triet Trinh Avatar")](https://github.com/trinhminhtriet)
+
 [![Justin Tan](https://avatars.githubusercontent.com/u/98398940?u=0673c660f00a8d474a49c24c4d2b8c0627907072&amp;v=4 "Justin Tan Avatar")](https://github.com/jyztintan)
 
 [![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
-
-[![Ali Yaşar](https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4 "Ali Yaşar Avatar")](https://github.com/helallao)
 
 [![Seckin Yasar](https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4 "Seckin Yasar Avatar")](https://github.com/seckinyasar)
 
