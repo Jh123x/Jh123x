@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.7](https://github.com/Oudwins/zog/releases/tag/v0.21.7), 4 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.7](https://github.com/Oudwins/zog/releases/tag/v0.21.7), 5 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 8 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -34,7 +34,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
-- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (3 days ago)
+- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (4 days ago)
 - [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (3 months ago)
 - [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (3 months ago)
 
