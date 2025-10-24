@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.7](https://github.com/Oudwins/zog/releases/tag/v0.21.7), 6 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.7](https://github.com/Oudwins/zog/releases/tag/v0.21.7), 1 week ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 8 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -34,7 +34,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
-- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (5 days ago)
+- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (6 days ago)
 - [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (3 months ago)
 - [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (3 months ago)
 
@@ -48,8 +48,6 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
-[![Triet Trinh](https://avatars.githubusercontent.com/u/1650997?u=9abc2c570e589518e913b4d34e3292d3800de60c&amp;v=4 "Triet Trinh Avatar")](https://github.com/trinhminhtriet)
-
 [![Justin Tan](https://avatars.githubusercontent.com/u/98398940?u=0673c660f00a8d474a49c24c4d2b8c0627907072&amp;v=4 "Justin Tan Avatar")](https://github.com/jyztintan)
 
 [![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
@@ -57,3 +55,5 @@ Skills: Golang / Python / TypeScript.
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
 [![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
+
+[![Meow](https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
