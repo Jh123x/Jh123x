@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (1 month ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
@@ -34,9 +34,9 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
+- [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (5 days ago)
 - [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (1 week ago)
 - [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (3 months ago)
-- [Index Now - A new push protocol for Search Engine Discovery](https://jh123x.com/blog/2025/index-now/) (4 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
