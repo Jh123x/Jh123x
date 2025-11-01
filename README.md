@@ -35,7 +35,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 - [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (1 week ago)
-- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (1 week ago)
+- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (2 weeks ago)
 - [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (3 months ago)
 
 #### Statistics
