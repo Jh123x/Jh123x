@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.7](https://github.com/Oudwins/zog/releases/tag/v0.21.7), 2 weeks ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.8](https://github.com/Oudwins/zog/releases/tag/v0.21.8), 1 day ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -34,9 +34,9 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
+- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (1 week ago)
 - [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (1 week ago)
 - [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (2 weeks ago)
-- [Migrating Hugo From Git Submodule to Hugo Modules](https://jh123x.com/blog/2025/migrating-hugo-from-submodules-to-hugo-modules/) (3 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
