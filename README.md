@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (4 weeks ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (2 months ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 months ago)
@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.8](https://github.com/Oudwins/zog/releases/tag/v0.21.8), 1 week ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.9](https://github.com/Oudwins/zog/releases/tag/v0.21.9), 1 day ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -35,7 +35,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 weeks ago)
-- [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (2 weeks ago)
+- [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (3 weeks ago)
 - [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (3 weeks ago)
 
 #### Statistics
