@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.9](https://github.com/Oudwins/zog/releases/tag/v0.21.9), 2 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.9](https://github.com/Oudwins/zog/releases/tag/v0.21.9), 3 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -36,7 +36,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 weeks ago)
 - [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (3 weeks ago)
-- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (3 weeks ago)
+- [Exploring n8n for automation](https://jh123x.com/blog/2025/exploring-n8n/) (4 weeks ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
@@ -56,4 +56,4 @@ Skills: Golang / Python / TypeScript.
 
 [![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
 
-[![Meow](https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
+[![Meow](https://avatars.githubusercontent.com/u/193270912?u=6c10bc54ee90cbace97261d40011cbc86b30e20a&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
