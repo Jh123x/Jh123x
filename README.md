@@ -34,7 +34,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
-- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases-difference-between-database-variants/) (5 days ago)
+- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases-difference-between-database-variants/) (6 days ago)
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (4 weeks ago)
 - [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (1 month ago)
 
