@@ -9,7 +9,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (2 months ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 months ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 months ago)
 - [Oudwins/zog](https://github.com/Oudwins/zog) - Go with Zod inspired simple schema validation (6 months ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -20,7 +20,7 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.21.9](https://github.com/Oudwins/zog/releases/tag/v0.21.9), 2 weeks ago) - Go with Zod inspired simple schema validation
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 10 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
@@ -29,7 +29,7 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/go-collections: feat: add refresh cache](https://github.com/Jh123x/go-collections/pull/6) (MERGED): A collection of go data structures (2 months ago)
 
--    [Jh123x/jh123x.github.io: feat: update optimizing prefetch](https://github.com/Jh123x/jh123x.github.io/pull/34) (MERGED): Website to Show my projects / competitions (2 months ago)
+-    [Jh123x/jh123x.github.io: feat: update optimizing prefetch](https://github.com/Jh123x/jh123x.github.io/pull/34) (MERGED): Website to Show my projects / competitions (3 months ago)
 
 
 #### 📜 My recent blog posts
