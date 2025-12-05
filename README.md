@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (1 day ago)
+- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 days ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (2 months ago)
@@ -25,7 +25,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: allow destination to be any location](https://github.com/Jh123x/buildergen/pull/14) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (2 days ago)
+-    [Jh123x/buildergen: feat: allow destination to be any location](https://github.com/Jh123x/buildergen/pull/14) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (3 days ago)
 
 -    [Jh123x/go-collections: feat: update worker pool](https://github.com/Jh123x/go-collections/pull/7) (MERGED): A collection of go data structures (2 months ago)
 
