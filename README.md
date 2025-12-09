@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 days ago)
+- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (1 day ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (2 months ago)
@@ -25,7 +25,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: allow destination to be any location](https://github.com/Jh123x/buildergen/pull/14) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
+-    [Jh123x/buildergen: feat: allow destination to be any location](https://github.com/Jh123x/buildergen/pull/14) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 
 -    [Jh123x/go-collections: feat: update worker pool](https://github.com/Jh123x/go-collections/pull/7) (MERGED): A collection of go data structures (2 months ago)
 
@@ -34,7 +34,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
-- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases-difference-between-database-variants/) (2 weeks ago)
+- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases-difference-between-database-variants/) (3 weeks ago)
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (1 month ago)
 - [Prompt Engineering: Different Types of Prompts](https://jh123x.com/blog/2025/prompt-engineering---types-of-prompts/) (1 month ago)
 
