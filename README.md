@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 3 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 4 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.3.0](https://github.com/Jh123x/buildergen/releases/tag/v0.3.0), 10 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -35,7 +35,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (2 weeks ago)
-- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (4 weeks ago)
+- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (1 month ago)
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (1 month ago)
 
 #### Statistics
