@@ -6,8 +6,8 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
-- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (1 week ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 days ago)
+- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 weeks ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
 - [Jh123x/go-collections](https://github.com/Jh123x/go-collections) - A collection of go data structures (3 months ago)
@@ -19,13 +19,13 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 2 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 3 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 1 week ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
 
 
--    [Jh123x/buildergen: feat: allow destination to be any location](https://github.com/Jh123x/buildergen/pull/14) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (2 weeks ago)
+-    [Jh123x/buildergen: feat: allow destination to be any location](https://github.com/Jh123x/buildergen/pull/14) (MERGED): Buildergen is a code generation tool to create a builder class for generating structs (3 weeks ago)
 
 -    [Jh123x/go-collections: feat: update worker pool](https://github.com/Jh123x/go-collections/pull/7) (MERGED): A collection of go data structures (3 months ago)
 
