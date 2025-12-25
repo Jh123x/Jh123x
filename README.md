@@ -6,7 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (3 days ago)
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (4 days ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 weeks ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 months ago)
@@ -19,7 +19,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 4 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 5 days ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 1 week ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
@@ -36,7 +36,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 weeks ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (1 month ago)
-- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (1 month ago)
+- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 months ago)
 
 #### Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
