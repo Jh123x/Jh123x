@@ -5,6 +5,7 @@ I write a blog at https://jh123x.com.
 Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
+
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -15,6 +16,7 @@ Skills: Golang / Python / TypeScript.
 - Golang
 
 #### 🔭 Latest releases I've contributed to
+
 {{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
@@ -26,16 +28,10 @@ Skills: Golang / Python / TypeScript.
 {{end}}
 
 #### 📜 My recent blog posts
+
 {{range rss "https://jh123x.com/blog/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-#### Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh123x)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Latest followers
 
