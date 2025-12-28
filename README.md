@@ -6,6 +6,7 @@ Skills: Golang / Python / TypeScript.
 
 #### 👷 What I'm currently working on
 
+
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
@@ -18,6 +19,7 @@ Skills: Golang / Python / TypeScript.
 - Golang
 
 #### 🔭 Latest releases I've contributed to
+
 
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 1 week ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 2 weeks ago) - Go with Zod inspired simple schema validation
@@ -34,16 +36,10 @@ Skills: Golang / Python / TypeScript.
 
 #### 📜 My recent blog posts
 
+
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 weeks ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (1 month ago)
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 months ago)
-
-#### Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jh123x)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh123x&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh123x)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Latest followers
 
@@ -57,3 +53,4 @@ Skills: Golang / Python / TypeScript.
 [![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
 
 [![Meow](https://avatars.githubusercontent.com/u/193270912?u=6c10bc54ee90cbace97261d40011cbc86b30e20a&amp;v=4 "Meow Avatar")](https://github.com/LinuxJS)
+
