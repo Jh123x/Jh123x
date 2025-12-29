@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
@@ -27,17 +27,17 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: feat: update projects page](https://github.com/Jh123x/jh123x.github.io/pull/41) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: feat: update projects page](https://github.com/Jh123x/jh123x.github.io/pull/41) (MERGED): Website to Show my projects / competitions (2 days ago)
 
--    [Jh123x/jh123x.github.io: feat: update home page](https://github.com/Jh123x/jh123x.github.io/pull/39) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: feat: update home page](https://github.com/Jh123x/jh123x.github.io/pull/39) (MERGED): Website to Show my projects / competitions (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: update interest rates](https://github.com/Jh123x/SG-HYSA-Calculator/pull/16) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: update interest rates](https://github.com/Jh123x/SG-HYSA-Calculator/pull/16) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 weeks ago)
+- [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (4 weeks ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (1 month ago)
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 months ago)
 
