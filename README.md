@@ -8,7 +8,7 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (3 days ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
@@ -27,22 +27,24 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: feat: update project cards](https://github.com/Jh123x/jh123x.github.io/pull/42) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: chore: optimize pages](https://github.com/Jh123x/jh123x.github.io/pull/43) (MERGED): Website to Show my projects / competitions (1 day ago)
 
--    [Jh123x/jh123x.github.io: feat: update projects page](https://github.com/Jh123x/jh123x.github.io/pull/41) (MERGED): Website to Show my projects / competitions (3 days ago)
+-    [Jh123x/jh123x.github.io: feat: update project cards](https://github.com/Jh123x/jh123x.github.io/pull/42) (MERGED): Website to Show my projects / competitions (2 days ago)
 
--    [Jh123x/jh123x.github.io: feat: update home page](https://github.com/Jh123x/jh123x.github.io/pull/39) (MERGED): Website to Show my projects / competitions (3 days ago)
+-    [Jh123x/jh123x.github.io: feat: update projects page](https://github.com/Jh123x/jh123x.github.io/pull/41) (MERGED): Website to Show my projects / competitions (4 days ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (4 weeks ago)
+- [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (1 month ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (1 month ago)
 - [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 months ago)
 
 #### My Latest followers
 
+
+[![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
 [![ishan dutta](https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&amp;v=4 "ishan dutta Avatar")](https://github.com/ishandutta2007)
 
@@ -51,6 +53,4 @@ Skills: Golang / Python / TypeScript.
 [![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
 
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
-
-[![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
 
