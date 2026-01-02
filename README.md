@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (4 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (5 days ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
@@ -27,11 +27,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: chore: optimize pages](https://github.com/Jh123x/jh123x.github.io/pull/43) (MERGED): Website to Show my projects / competitions (2 days ago)
+-    [Jh123x/jh123x.github.io: feat: more optimizations](https://github.com/Jh123x/jh123x.github.io/pull/47) (MERGED): Website to Show my projects / competitions (1 day ago)
 
--    [Jh123x/jh123x.github.io: feat: update project cards](https://github.com/Jh123x/jh123x.github.io/pull/42) (MERGED): Website to Show my projects / competitions (3 days ago)
+-    [Jh123x/jh123x.github.io: feat: improve ux](https://github.com/Jh123x/jh123x.github.io/pull/45) (MERGED): Website to Show my projects / competitions (1 day ago)
 
--    [Jh123x/jh123x.github.io: feat: update projects page](https://github.com/Jh123x/jh123x.github.io/pull/41) (MERGED): Website to Show my projects / competitions (5 days ago)
+-    [Jh123x/jh123x.github.io: chore: optimize pages](https://github.com/Jh123x/jh123x.github.io/pull/43) (MERGED): Website to Show my projects / competitions (3 days ago)
 
 
 #### 📜 My recent blog posts
