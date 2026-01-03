@@ -8,7 +8,7 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (5 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (6 days ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
@@ -21,17 +21,17 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 1 week ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 2 weeks ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 2 weeks ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: feat: more optimizations](https://github.com/Jh123x/jh123x.github.io/pull/47) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: feat: even more optimizations](https://github.com/Jh123x/jh123x.github.io/pull/48) (MERGED): Website to Show my projects / competitions (1 day ago)
 
--    [Jh123x/jh123x.github.io: feat: improve ux](https://github.com/Jh123x/jh123x.github.io/pull/45) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: feat: more optimizations](https://github.com/Jh123x/jh123x.github.io/pull/47) (MERGED): Website to Show my projects / competitions (2 days ago)
 
--    [Jh123x/jh123x.github.io: chore: optimize pages](https://github.com/Jh123x/jh123x.github.io/pull/43) (MERGED): Website to Show my projects / competitions (3 days ago)
+-    [Jh123x/jh123x.github.io: feat: improve ux](https://github.com/Jh123x/jh123x.github.io/pull/45) (MERGED): Website to Show my projects / competitions (2 days ago)
 
 
 #### 📜 My recent blog posts
