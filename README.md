@@ -7,10 +7,10 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 weeks ago)
-- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (3 weeks ago)
+- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (4 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 months ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -27,11 +27,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/51) (MERGED): Website to Show my projects / competitions (2 days ago)
+-    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/51) (MERGED): Website to Show my projects / competitions (3 days ago)
 
--    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/50) (MERGED): Website to Show my projects / competitions (2 days ago)
+-    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/50) (MERGED): Website to Show my projects / competitions (3 days ago)
 
--    [Jh123x/jh123x.github.io: feat: update page based on comments](https://github.com/Jh123x/jh123x.github.io/pull/49) (MERGED): Website to Show my projects / competitions (2 days ago)
+-    [Jh123x/jh123x.github.io: feat: update page based on comments](https://github.com/Jh123x/jh123x.github.io/pull/49) (MERGED): Website to Show my projects / competitions (3 days ago)
 
 
 #### 📜 My recent blog posts
