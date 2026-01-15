@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (3 weeks ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (1 month ago)
@@ -27,7 +27,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: add refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/17) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/17) (MERGED): A High Yield Savings Account Calculator (3 days ago)
 
 -    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/51) (MERGED): Website to Show my projects / competitions (1 week ago)
 
