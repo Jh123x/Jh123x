@@ -46,11 +46,11 @@ Skills: Golang / Python / TypeScript.
 
 [![Seckin Yasar](https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4 "Seckin Yasar Avatar")](https://github.com/seckinyasar)
 
-[![Ali Yaşar](https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4 "Ali Yaşar Avatar")](https://github.com/helallao)
-
 [![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
 [![ishan dutta](https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&amp;v=4 "ishan dutta Avatar")](https://github.com/ishandutta2007)
 
 [![Justin Tan](https://avatars.githubusercontent.com/u/98398940?u=0673c660f00a8d474a49c24c4d2b8c0627907072&amp;v=4 "Justin Tan Avatar")](https://github.com/jyztintan)
+
+[![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
 
