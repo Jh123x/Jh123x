@@ -29,9 +29,9 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/SG-HYSA-Calculator: feat: add refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/17) (MERGED): A High Yield Savings Account Calculator (1 week ago)
 
--    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/51) (MERGED): Website to Show my projects / competitions (2 weeks ago)
+-    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/51) (MERGED): Website to Show my projects / competitions (3 weeks ago)
 
--    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/50) (MERGED): Website to Show my projects / competitions (2 weeks ago)
+-    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/50) (MERGED): Website to Show my projects / competitions (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -39,7 +39,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (1 month ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (2 months ago)
-- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (2 months ago)
+- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (3 months ago)
 
 #### My Latest followers
 
@@ -48,9 +48,9 @@ Skills: Golang / Python / TypeScript.
 
 [![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
-[![ishan dutta](https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&amp;v=4 "ishan dutta Avatar")](https://github.com/ishandutta2007)
-
 [![Justin Tan](https://avatars.githubusercontent.com/u/98398940?u=0673c660f00a8d474a49c24c4d2b8c0627907072&amp;v=4 "Justin Tan Avatar")](https://github.com/jyztintan)
 
 [![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
+
+[![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
