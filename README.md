@@ -21,13 +21,13 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 1 month ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 2 months ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
 
 
--    [Jh123x/go-collections: feat: add more data structures](https://github.com/Jh123x/go-collections/pull/8) (OPEN): A collection of go data structures (6 days ago)
+-    [Jh123x/go-collections: feat: add more data structures](https://github.com/Jh123x/go-collections/pull/8) (OPEN): A collection of go data structures (1 week ago)
 
 -    [Jh123x/SG-HYSA-Calculator: feat: add refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/17) (MERGED): A High Yield Savings Account Calculator (1 month ago)
 
