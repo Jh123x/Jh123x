@@ -39,7 +39,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (2 months ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (3 months ago)
-- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (3 months ago)
+- [Prompt Engineering: Prompting Guide](https://jh123x.com/blog/2025/prompt-engineering---prompting-guide/) (4 months ago)
 
 #### My Latest followers
 
