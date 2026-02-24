@@ -7,11 +7,11 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
+- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 day ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 months ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 months ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -27,11 +27,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/go-collections: feat: add more data structures](https://github.com/Jh123x/go-collections/pull/8) (OPEN): A collection of go data structures (1 week ago)
+-    [Jh123x/data-tool: docs: improve readme](https://github.com/Jh123x/data-tool/pull/6) (MERGED): An Online Data Manipulation Tool (4 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: add refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/17) (MERGED): A High Yield Savings Account Calculator (1 month ago)
+-    [Jh123x/data-tool: feat: hide code bar if unused](https://github.com/Jh123x/data-tool/pull/5) (MERGED): An Online Data Manipulation Tool (1 week ago)
 
--    [Jh123x/jh123x.github.io: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/jh123x.github.io/pull/51) (MERGED): Website to Show my projects / competitions (1 month ago)
+-    [Jh123x/data-tool: chore: refactor code and add more unit tests](https://github.com/Jh123x/data-tool/pull/4) (MERGED): An Online Data Manipulation Tool (1 week ago)
 
 
 #### 📜 My recent blog posts
