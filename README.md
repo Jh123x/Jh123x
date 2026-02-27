@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
-- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (3 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (4 days ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 months ago)
@@ -27,11 +27,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: revert: rollback next](https://github.com/Jh123x/jh123x.github.io/pull/55) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: revert: rollback next](https://github.com/Jh123x/jh123x.github.io/pull/55) (MERGED): Website to Show my projects / competitions (2 days ago)
 
--    [Jh123x/jh123x.github.io: chore: update missing css vars](https://github.com/Jh123x/jh123x.github.io/pull/54) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: chore: update missing css vars](https://github.com/Jh123x/jh123x.github.io/pull/54) (MERGED): Website to Show my projects / competitions (2 days ago)
 
--    [Jh123x/jh123x.github.io: feat: update projects](https://github.com/Jh123x/jh123x.github.io/pull/53) (MERGED): Website to Show my projects / competitions (1 day ago)
+-    [Jh123x/jh123x.github.io: feat: update projects](https://github.com/Jh123x/jh123x.github.io/pull/53) (MERGED): Website to Show my projects / competitions (2 days ago)
 
 
 #### 📜 My recent blog posts
