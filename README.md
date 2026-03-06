@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (4 days ago)
+- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (5 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
@@ -27,9 +27,9 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/8) (MERGED): An Online Data Manipulation Tool (6 days ago)
+-    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/8) (MERGED): An Online Data Manipulation Tool (1 week ago)
 
--    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/7) (CLOSED): An Online Data Manipulation Tool (6 days ago)
+-    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/7) (CLOSED): An Online Data Manipulation Tool (1 week ago)
 
 -    [Jh123x/jh123x.github.io: revert: rollback next](https://github.com/Jh123x/jh123x.github.io/pull/55) (MERGED): Website to Show my projects / competitions (1 week ago)
 
@@ -37,12 +37,14 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 
-- [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (2 days ago)
+- [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (3 days ago)
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 months ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (3 months ago)
 
 #### My Latest followers
 
+
+[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?v=4 "Arjun Yadav  Avatar")](https://github.com/yadav-arjun)
 
 [![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
@@ -51,6 +53,4 @@ Skills: Golang / Python / TypeScript.
 [![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
 
 [![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
-
-[![Julio Fleitas](https://avatars.githubusercontent.com/u/122684703?u=adcfcc382118acbcda020566f3a24e3b665535db&amp;v=4 "Julio Fleitas Avatar")](https://github.com/juliofleitas)
 
