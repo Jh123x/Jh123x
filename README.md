@@ -11,7 +11,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
-- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (2 months ago)
+- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (3 months ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -27,17 +27,17 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
+-    [Jh123x/buildergen: refactor: refactor buildergen](https://github.com/Jh123x/buildergen/pull/15) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (1 day ago)
+
 -    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/8) (MERGED): An Online Data Manipulation Tool (1 week ago)
 
 -    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/7) (CLOSED): An Online Data Manipulation Tool (1 week ago)
-
--    [Jh123x/jh123x.github.io: revert: rollback next](https://github.com/Jh123x/jh123x.github.io/pull/55) (MERGED): Website to Show my projects / competitions (1 week ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (5 days ago)
+- [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (6 days ago)
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 months ago)
 - [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (3 months ago)
 
