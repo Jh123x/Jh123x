@@ -7,9 +7,9 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 week ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 months ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (2 months ago)
 - [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (3 months ago)
 
@@ -22,14 +22,14 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 2 months ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 3 months ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: refactor: update code and spaces.](https://github.com/Jh123x/jh123x.github.io/pull/57) (MERGED): Website to Show my projects / competitions (3 days ago)
+-    [Jh123x/jh123x.github.io: refactor: update code and spaces.](https://github.com/Jh123x/jh123x.github.io/pull/57) (MERGED): Website to Show my projects / competitions (4 days ago)
 
--    [Jh123x/buildergen: refactor: refactor buildergen](https://github.com/Jh123x/buildergen/pull/15) (OPEN): Buildergen is a code generation tool to create a builder class for generating structs (5 days ago)
+-    [Jh123x/buildergen: refactor: refactor buildergen](https://github.com/Jh123x/buildergen/pull/15) (CLOSED): Buildergen is a code generation tool to create a builder class for generating structs (6 days ago)
 
 -    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/8) (MERGED): An Online Data Manipulation Tool (2 weeks ago)
 
