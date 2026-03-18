@@ -39,7 +39,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (2 weeks ago)
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 months ago)
-- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (3 months ago)
+- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (4 months ago)
 
 #### My Latest followers
 
