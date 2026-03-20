@@ -21,7 +21,7 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 2 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 3 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 - [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 3 months ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
@@ -31,15 +31,15 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/buildergen: refactor: refactor buildergen](https://github.com/Jh123x/buildergen/pull/15) (CLOSED): Buildergen is a code generation tool to create a builder class for generating structs (1 week ago)
 
--    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/8) (MERGED): An Online Data Manipulation Tool (2 weeks ago)
+-    [Jh123x/data-tool: chore: fix vuln](https://github.com/Jh123x/data-tool/pull/8) (MERGED): An Online Data Manipulation Tool (3 weeks ago)
 
 
 #### 📜 My recent blog posts
 
 
+- [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (2 days ago)
 - [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (2 weeks ago)
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (3 months ago)
-- [Databases: Differences between different database variants](https://jh123x.com/blog/2025/databases---difference-between-database-variants/) (4 months ago)
 
 #### My Latest followers
 
