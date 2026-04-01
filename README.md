@@ -37,14 +37,14 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 
-- [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (1 week ago)
+- [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (2 weeks ago)
 - [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (4 weeks ago)
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (4 months ago)
 
 #### My Latest followers
 
 
-[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?v=4 "Arjun Yadav  Avatar")](https://github.com/yadav-arjun)
+[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/yadav-arjun)
 
 [![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
