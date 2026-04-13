@@ -22,7 +22,7 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 3 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 3 months ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.0](https://github.com/Oudwins/zog/releases/tag/v0.22.0), 4 months ago) - Go with Zod inspired simple schema validation
 
 #### Recent MRs
 
