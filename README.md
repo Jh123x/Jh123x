@@ -10,8 +10,8 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 month ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 months ago)
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) - Buildergen is a code generation tool to create a builder class for generating structs (3 months ago)
-- [Jh123x/AdventOfCode](https://github.com/Jh123x/AdventOfCode) - AdventOfCode (4 months ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
