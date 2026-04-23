@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (6 days ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 month ago)
@@ -21,7 +21,7 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.1](https://github.com/Oudwins/zog/releases/tag/v0.22.1), 4 days ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.1](https://github.com/Oudwins/zog/releases/tag/v0.22.1), 5 days ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 4 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
