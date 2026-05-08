@@ -44,7 +44,7 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
-[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/yadav-arjun)
+[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/arjunya6av)
 
 [![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
