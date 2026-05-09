@@ -21,7 +21,7 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.2](https://github.com/Oudwins/zog/releases/tag/v0.22.2), 1 week ago) - Go with Zod inspired simple schema validation
+- [Oudwins/zog](https://github.com/Oudwins/zog) ([v0.22.2](https://github.com/Oudwins/zog/releases/tag/v0.22.2), 2 weeks ago) - Go with Zod inspired simple schema validation
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 4 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
@@ -31,7 +31,7 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/jh123x.github.io: feat: update description](https://github.com/Jh123x/jh123x.github.io/pull/60) (CLOSED): Website to Show my projects / competitions (1 month ago)
 
--    [Jh123x/jh123x.github.io: refactor: update code and spaces.](https://github.com/Jh123x/jh123x.github.io/pull/57) (MERGED): Website to Show my projects / competitions (1 month ago)
+-    [Jh123x/jh123x.github.io: refactor: update code and spaces.](https://github.com/Jh123x/jh123x.github.io/pull/57) (MERGED): Website to Show my projects / competitions (2 months ago)
 
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
-[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/arjunya6av)
+[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/2006arjun)
 
 [![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
