@@ -37,7 +37,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 
-- [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (1 month ago)
+- [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (2 months ago)
 - [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (2 months ago)
 - [Coolify Wildcard Subdomain Setup With Cloudflare](https://jh123x.com/blog/2025/coolify-wildcard-subdomain-setup-with-cloudflare/) (5 months ago)
 
