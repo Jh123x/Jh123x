@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (today)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (today)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 month ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (2 months ago)
@@ -37,7 +37,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 
-- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (1 day ago)
+- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (2 days ago)
 - [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (2 months ago)
 - [Building a Data Converter That Eliminates 4 Clicks per Task](https://jh123x.com/blog/2026/building-a-data-converter/) (2 months ago)
 
