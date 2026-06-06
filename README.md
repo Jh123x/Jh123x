@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (3 days ago)
+- [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (4 days ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
@@ -26,22 +26,24 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
+-    [Jh123x/SG-HYSA-Calculator: Update interest rates for Jun 2026: SC, Trust Bank, Choco Finance, Ci…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/25) (OPEN): A High Yield Savings Account Calculator (today)
+
 -    [Jh123x/jh123x.github.io: feat: update portfolio page](https://github.com/Jh123x/jh123x.github.io/pull/61) (MERGED): Website to Show my projects / competitions (2 months ago)
 
 -    [Jh123x/jh123x.github.io: feat: update description](https://github.com/Jh123x/jh123x.github.io/pull/60) (CLOSED): Website to Show my projects / competitions (2 months ago)
-
--    [Jh123x/jh123x.github.io: refactor: update code and spaces.](https://github.com/Jh123x/jh123x.github.io/pull/57) (MERGED): Website to Show my projects / competitions (2 months ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 days ago)
+- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (3 days ago)
 - [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (2 weeks ago)
 - [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (2 months ago)
 
 #### My Latest followers
 
+
+[![Ahmed Dabish](https://avatars.githubusercontent.com/u/111189633?u=721369dbeea54b9449ffc50e572f507f05f9c9de&amp;v=4 "Ahmed Dabish Avatar")](https://github.com/AhmedDabish)
 
 [![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/imarjunyadav)
 
@@ -50,6 +52,4 @@ Skills: Golang / Python / TypeScript.
 [![Justin Tan](https://avatars.githubusercontent.com/u/98398940?u=0673c660f00a8d474a49c24c4d2b8c0627907072&amp;v=4 "Justin Tan Avatar")](https://github.com/jyztintan)
 
 [![Cogito Ergo Sum](https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4 "Cogito Ergo Sum Avatar")](https://github.com/standardgalactic)
-
-[![](https://avatars.githubusercontent.com/u/111629593?v=4 " Avatar")](https://github.com/djbelishaO)
 
