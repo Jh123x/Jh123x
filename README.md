@@ -7,11 +7,11 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
-- [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (5 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (6 days ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (2 weeks ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -26,18 +26,18 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: fix: fix choco investment amount.](https://github.com/Jh123x/SG-HYSA-Calculator/pull/27) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/data-tool: Create dependabot.yml](https://github.com/Jh123x/data-tool/pull/9) (OPEN): An Online Data Manipulation Tool (1 day ago)
 
--    [Jh123x/SG-HYSA-Calculator: Update interest rates for Jun 2026: SC, Trust Bank, Choco Finance, Ci…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/25) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: fix: fix choco investment amount.](https://github.com/Jh123x/SG-HYSA-Calculator/pull/27) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/jh123x.github.io: feat: update portfolio page](https://github.com/Jh123x/jh123x.github.io/pull/61) (MERGED): Website to Show my projects / competitions (2 months ago)
+-    [Jh123x/SG-HYSA-Calculator: Update interest rates for Jun 2026: SC, Trust Bank, Choco Finance, Ci…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/25) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (4 days ago)
-- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (2 weeks ago)
+- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (5 days ago)
+- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (3 weeks ago)
 - [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (2 months ago)
 
 #### My Latest followers
