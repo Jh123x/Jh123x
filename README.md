@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (1 week ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 weeks ago)
@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: add historical interest rate view (prototype for #10)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/32) (OPEN): A High Yield Savings Account Calculator (today)
+-    [Jh123x/SG-HYSA-Calculator: feat: add historical interest rate view (prototype for #10)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/32) (MERGED): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: add savings reference line marker (closes #7)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/31) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add savings reference line marker (closes #7)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/31) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: Update interest rates 2026 06](https://github.com/Jh123x/SG-HYSA-Calculator/pull/30) (CLOSED): A High Yield Savings Account Calculator (4 days ago)
+-    [Jh123x/SG-HYSA-Calculator: Update interest rates 2026 06](https://github.com/Jh123x/SG-HYSA-Calculator/pull/30) (CLOSED): A High Yield Savings Account Calculator (5 days ago)
 
 
 #### 📜 My recent blog posts
