@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (2 weeks ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (3 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 weeks ago)
@@ -26,18 +26,18 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: docs: enhance README with features, developer guide, and supported ac…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/35) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: seo optimization](https://github.com/Jh123x/SG-HYSA-Calculator/pull/36) (OPEN): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: add Actions column with icon buttons for website and history (#10)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/34) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: docs: enhance README with features, developer guide, and supported ac…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/35) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: update historical rates 2026 06](https://github.com/Jh123x/SG-HYSA-Calculator/pull/33) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add Actions column with icon buttons for website and history (#10)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/34) (MERGED): A High Yield Savings Account Calculator (3 days ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (1 week ago)
-- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (4 weeks ago)
+- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 weeks ago)
+- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (1 month ago)
 - [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (3 months ago)
 
 #### My Latest followers
