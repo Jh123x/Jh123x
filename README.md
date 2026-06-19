@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: Fix/precision loss early rounding](https://github.com/Jh123x/SG-HYSA-Calculator/pull/37) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: shareable profile URLs](https://github.com/Jh123x/SG-HYSA-Calculator/pull/38) (MERGED): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: seo optimization](https://github.com/Jh123x/SG-HYSA-Calculator/pull/36) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: Fix/precision loss early rounding](https://github.com/Jh123x/SG-HYSA-Calculator/pull/37) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: docs: enhance README with features, developer guide, and supported ac…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/35) (MERGED): A High Yield Savings Account Calculator (3 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: seo optimization](https://github.com/Jh123x/SG-HYSA-Calculator/pull/36) (MERGED): A High Yield Savings Account Calculator (3 days ago)
 
 
 #### 📜 My recent blog posts
