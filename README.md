@@ -7,9 +7,9 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (2 weeks ago)
-- [Jh123x/payload](https://github.com/Jh123x/payload) -  (4 weeks ago)
+- [Jh123x/payload](https://github.com/Jh123x/payload) -  (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 
@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: feat: shareable profile URLs](https://github.com/Jh123x/SG-HYSA-Calculator/pull/38) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: shareable profile URLs](https://github.com/Jh123x/SG-HYSA-Calculator/pull/38) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: Fix/precision loss early rounding](https://github.com/Jh123x/SG-HYSA-Calculator/pull/37) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: Fix/precision loss early rounding](https://github.com/Jh123x/SG-HYSA-Calculator/pull/37) (MERGED): A High Yield Savings Account Calculator (3 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: seo optimization](https://github.com/Jh123x/SG-HYSA-Calculator/pull/36) (MERGED): A High Yield Savings Account Calculator (3 days ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: seo optimization](https://github.com/Jh123x/SG-HYSA-Calculator/pull/36) (MERGED): A High Yield Savings Account Calculator (4 days ago)
 
 
 #### 📜 My recent blog posts
