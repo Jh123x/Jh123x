@@ -36,7 +36,7 @@ Skills: Golang / Python / TypeScript.
 #### 📜 My recent blog posts
 
 
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (3 weeks ago)
+- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (4 weeks ago)
 - [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (1 month ago)
 - [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (3 months ago)
 
