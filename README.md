@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (1 month ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
@@ -26,17 +26,17 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/picoclaw: fix(whatsapp): add reconnection and async message processing](https://github.com/Jh123x/picoclaw/pull/1) (OPEN): Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
+-    [Jh123x/SG-HYSA-Calculator: Add Hacktron dependency scan step to workflow](https://github.com/Jh123x/SG-HYSA-Calculator/pull/45) (CLOSED): A High Yield Savings Account Calculator (1 day ago)
 
--    [sipeed/picoclaw: fix(whatsapp): add reconnection and async message processing](https://github.com/sipeed/picoclaw/pull/3162) (CLOSED): Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
+-    [Jh123x/SG-HYSA-Calculator: Add PayNowReceived and FXSpend fields with Trust Flex tooltips](https://github.com/Jh123x/SG-HYSA-Calculator/pull/44) (CLOSED): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/SG-HYSA-Calculator: feat: add scrollable FAQ layout with sticky table of contents](https://github.com/Jh123x/SG-HYSA-Calculator/pull/41) (MERGED): A High Yield Savings Account Calculator (1 week ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add CIMB FastSaver with tiered rates and optional bonuses](https://github.com/Jh123x/SG-HYSA-Calculator/pull/43) (CLOSED): A High Yield Savings Account Calculator (1 day ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (4 weeks ago)
+- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (1 month ago)
 - [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (1 month ago)
 - [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (3 months ago)
 
