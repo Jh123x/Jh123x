@@ -7,8 +7,8 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (today)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 days ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (1 month ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [RayNieport/mconBot: feat: add intents for discord client](https://github.com/RayNieport/mconBot/pull/14) (OPEN): A bot to interact with your Minecraft server - from Discord! (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: feat: add blog section with 3 SEO-optimized HYSA posts](https://github.com/Jh123x/SG-HYSA-Calculator/pull/52) (OPEN): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/mconBot: feat: add intents for discord client](https://github.com/Jh123x/mconBot/pull/2) (MERGED): A bot to interact with your Minecraft server - from Discord! (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: seo: add meaningful noscript content and preconnect hints](https://github.com/Jh123x/SG-HYSA-Calculator/pull/51) (MERGED): A High Yield Savings Account Calculator (1 day ago)
 
--    [Jh123x/mconBot: Refactor Docker CI workflow for Buildx and Docker Hub](https://github.com/Jh123x/mconBot/pull/1) (MERGED): A bot to interact with your Minecraft server - from Discord! (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: seo: add route-level code splitting with React.lazy](https://github.com/Jh123x/SG-HYSA-Calculator/pull/50) (MERGED): A High Yield Savings Account Calculator (1 day ago)
 
 
 #### 📜 My recent blog posts
