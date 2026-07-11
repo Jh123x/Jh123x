@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 week ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (1 month ago)
 - [Jh123x/payload](https://github.com/Jh123x/payload) -  (1 month ago)
@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: ui: redesign](https://github.com/Jh123x/SG-HYSA-Calculator/pull/56) (MERGED): A High Yield Savings Account Calculator (2 days ago)
+-    [Jh123x/SG-HYSA-Calculator: ui: redesign](https://github.com/Jh123x/SG-HYSA-Calculator/pull/56) (MERGED): A High Yield Savings Account Calculator (3 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: Fix/UI artifacts](https://github.com/Jh123x/SG-HYSA-Calculator/pull/55) (MERGED): A High Yield Savings Account Calculator (3 days ago)
+-    [Jh123x/SG-HYSA-Calculator: Fix/UI artifacts](https://github.com/Jh123x/SG-HYSA-Calculator/pull/55) (MERGED): A High Yield Savings Account Calculator (4 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: chore: remove dead code, unused deps, fix FaqPage dangerouslySetInner…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/54) (MERGED): A High Yield Savings Account Calculator (5 days ago)
+-    [Jh123x/SG-HYSA-Calculator: chore: remove dead code, unused deps, fix FaqPage dangerouslySetInner…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/54) (MERGED): A High Yield Savings Account Calculator (6 days ago)
 
 
 #### 📜 My recent blog posts
