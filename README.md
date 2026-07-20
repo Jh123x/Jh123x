@@ -7,11 +7,11 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (6 days ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (6 days ago)
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 weeks ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 day ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (1 month ago)
-- [Jh123x/payload](https://github.com/Jh123x/payload) -  (1 month ago)
+- [Jh123x/payload](https://github.com/Jh123x/payload) -  (2 months ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/jh123x.github.io: chore: update deps](https://github.com/Jh123x/jh123x.github.io/pull/66) (MERGED): Website to Show my projects / competitions (6 days ago)
+-    [Jh123x/jh123x.github.io: chore: update deps](https://github.com/Jh123x/jh123x.github.io/pull/66) (MERGED): Website to Show my projects / competitions (1 week ago)
 
--    [Jh123x/SG-HYSA-Calculator: fix: chart legend overflow](https://github.com/Jh123x/SG-HYSA-Calculator/pull/60) (MERGED): A High Yield Savings Account Calculator (6 days ago)
+-    [Jh123x/SG-HYSA-Calculator: fix: chart legend overflow](https://github.com/Jh123x/SG-HYSA-Calculator/pull/60) (MERGED): A High Yield Savings Account Calculator (1 week ago)
 
--    [Jh123x/SG-HYSA-Calculator: fix: prevent chart legend overflow with vertical layout &#43; overflow hi…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/59) (CLOSED): A High Yield Savings Account Calculator (6 days ago)
+-    [Jh123x/SG-HYSA-Calculator: fix: prevent chart legend overflow with vertical layout &#43; overflow hi…](https://github.com/Jh123x/SG-HYSA-Calculator/pull/59) (CLOSED): A High Yield Savings Account Calculator (1 week ago)
 
 
 #### 📜 My recent blog posts
