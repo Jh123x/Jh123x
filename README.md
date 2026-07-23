@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (3 days ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (4 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (1 month ago)
@@ -26,7 +26,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: Refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/61) (OPEN): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: Refactor](https://github.com/Jh123x/SG-HYSA-Calculator/pull/61) (OPEN): A High Yield Savings Account Calculator (2 days ago)
 
 -    [Jh123x/jh123x.github.io: chore: update deps](https://github.com/Jh123x/jh123x.github.io/pull/66) (MERGED): Website to Show my projects / competitions (1 week ago)
 
