@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
@@ -26,11 +26,11 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/telegram-bot-on-browser: feat: palette revamp](https://github.com/Jh123x/telegram-bot-on-browser/pull/299) (MERGED): A Telegram bot that runs on the browser (1 day ago)
+-    [Jh123x/telegram-bot-on-browser: feat: palette revamp](https://github.com/Jh123x/telegram-bot-on-browser/pull/299) (MERGED): A Telegram bot that runs on the browser (2 days ago)
 
--    [Jh123x/telegram-bot-on-browser: ci: add least-privilege permissions block to workflow](https://github.com/Jh123x/telegram-bot-on-browser/pull/298) (MERGED): A Telegram bot that runs on the browser (1 day ago)
+-    [Jh123x/telegram-bot-on-browser: ci: add least-privilege permissions block to workflow](https://github.com/Jh123x/telegram-bot-on-browser/pull/298) (MERGED): A Telegram bot that runs on the browser (2 days ago)
 
--    [Jh123x/telegram-bot-on-browser: chore: vite vitest migration](https://github.com/Jh123x/telegram-bot-on-browser/pull/297) (MERGED): A Telegram bot that runs on the browser (1 day ago)
+-    [Jh123x/telegram-bot-on-browser: chore: vite vitest migration](https://github.com/Jh123x/telegram-bot-on-browser/pull/297) (MERGED): A Telegram bot that runs on the browser (2 days ago)
 
 
 #### 📜 My recent blog posts
