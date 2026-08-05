@@ -7,10 +7,10 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 weeks ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (2 months ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -21,24 +21,25 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.0](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.0), 1 day ago) - A Telegram bot that runs on the browser
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 7 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/telegram-bot-on-browser: feat: palette revamp](https://github.com/Jh123x/telegram-bot-on-browser/pull/299) (MERGED): A Telegram bot that runs on the browser (2 days ago)
+-    [Jh123x/telegram-bot-on-browser: feat: ui polish](https://github.com/Jh123x/telegram-bot-on-browser/pull/304) (MERGED): A Telegram bot that runs on the browser (1 day ago)
 
--    [Jh123x/telegram-bot-on-browser: ci: add least-privilege permissions block to workflow](https://github.com/Jh123x/telegram-bot-on-browser/pull/298) (MERGED): A Telegram bot that runs on the browser (2 days ago)
+-    [Jh123x/jh123x.github.io: feat: update Browser Telebot project with current flow editor info](https://github.com/Jh123x/jh123x.github.io/pull/70) (MERGED): Website to Show my projects / competitions (1 day ago)
 
--    [Jh123x/telegram-bot-on-browser: chore: vite vitest migration](https://github.com/Jh123x/telegram-bot-on-browser/pull/297) (MERGED): A Telegram bot that runs on the browser (2 days ago)
+-    [Jh123x/jh123x.github.io: fix(deps): upgrade next to 16.3.0 to resolve security vulnerabilities](https://github.com/Jh123x/jh123x.github.io/pull/69) (MERGED): Website to Show my projects / competitions (1 day ago)
 
 
 #### 📜 My recent blog posts
 
 
+- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (3 days ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 months ago)
 - [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (2 months ago)
-- [Linking Claude Code to Local LLMs using LM Studio](https://jh123x.com/blog/2026/linking-claude-code-to-local-llms/) (4 months ago)
 
 #### My Latest followers
 
