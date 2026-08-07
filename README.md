@@ -7,9 +7,9 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 weeks ago)
 - [Jh123x/Picoclaw-deploy](https://github.com/Jh123x/Picoclaw-deploy) - Picoclaw Deployment configuration (2 months ago)
 
@@ -21,23 +21,23 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 1 day ago) - A Telegram bot that runs on the browser
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 2 days ago) - A Telegram bot that runs on the browser
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 7 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: fix: resolve npm security advisories (undici, postcss, react-router)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/66) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: fix: resolve npm security advisories (undici, postcss, react-router)](https://github.com/Jh123x/SG-HYSA-Calculator/pull/66) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: fix: correct UOB/OCBC/SCB rate history &#43; GXS remarks](https://github.com/Jh123x/SG-HYSA-Calculator/pull/65) (MERGED): A High Yield Savings Account Calculator (1 day ago)
+-    [Jh123x/SG-HYSA-Calculator: fix: correct UOB/OCBC/SCB rate history &#43; GXS remarks](https://github.com/Jh123x/SG-HYSA-Calculator/pull/65) (MERGED): A High Yield Savings Account Calculator (2 days ago)
 
--    [Jh123x/telegram-bot-on-browser: feat: perf lazy loading](https://github.com/Jh123x/telegram-bot-on-browser/pull/305) (MERGED): A Telegram bot that runs on the browser (1 day ago)
+-    [Jh123x/telegram-bot-on-browser: feat: perf lazy loading](https://github.com/Jh123x/telegram-bot-on-browser/pull/305) (MERGED): A Telegram bot that runs on the browser (2 days ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (4 days ago)
+- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (5 days ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 months ago)
 - [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (2 months ago)
 
