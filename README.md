@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (5 days ago)
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (6 days ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
@@ -21,26 +21,26 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 5 days ago) - A telegram live timer bot
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 6 days ago) - A telegram live timer bot
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 1 week ago) - A Telegram bot that runs on the browser
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 7 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/telegram-timer-bot: feat: migrate python telegram bot](https://github.com/Jh123x/telegram-timer-bot/pull/6) (MERGED): A telegram live timer bot (5 days ago)
+-    [Jh123x/telegram-timer-bot: feat: migrate python telegram bot](https://github.com/Jh123x/telegram-timer-bot/pull/6) (MERGED): A telegram live timer bot (6 days ago)
 
--    [Jh123x/telegram-timer-bot: feat: migrate from pyrogram to python-telegram-bot](https://github.com/Jh123x/telegram-timer-bot/pull/5) (MERGED): A telegram live timer bot (5 days ago)
+-    [Jh123x/telegram-timer-bot: feat: migrate from pyrogram to python-telegram-bot](https://github.com/Jh123x/telegram-timer-bot/pull/5) (MERGED): A telegram live timer bot (6 days ago)
 
--    [Jh123x/telegram-timer-bot: feat: modernize the way to do countdown](https://github.com/Jh123x/telegram-timer-bot/pull/4) (MERGED): A telegram live timer bot (5 days ago)
+-    [Jh123x/telegram-timer-bot: feat: modernize the way to do countdown](https://github.com/Jh123x/telegram-timer-bot/pull/4) (MERGED): A telegram live timer bot (6 days ago)
 
 
 #### 📜 My recent blog posts
 
 
+- [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (6 days ago)
 - [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (1 week ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 months ago)
-- [Hidden Blog Posts on the Cheap](https://jh123x.com/blog/2026/hidden-blog-posts-on-the-cheap/) (2 months ago)
 
 #### My Latest followers
 
