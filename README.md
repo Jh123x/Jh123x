@@ -11,7 +11,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (3 weeks ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (4 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -39,7 +39,7 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (1 week ago)
-- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (1 week ago)
+- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 weeks ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 months ago)
 
 #### My Latest followers
