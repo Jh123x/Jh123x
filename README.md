@@ -23,7 +23,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 1 week ago) - A telegram live timer bot
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 1 week ago) - A Telegram bot that runs on the browser
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 7 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 8 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
