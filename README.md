@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (1 week ago)
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
@@ -21,29 +21,31 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 1 week ago) - A telegram live timer bot
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 2 weeks ago) - A telegram live timer bot
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 2 weeks ago) - A Telegram bot that runs on the browser
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 8 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/telegram-timer-bot: feat: migrate python telegram bot](https://github.com/Jh123x/telegram-timer-bot/pull/6) (MERGED): A telegram live timer bot (1 week ago)
+-    [Jh123x/telegram-timer-bot: feat: migrate python telegram bot](https://github.com/Jh123x/telegram-timer-bot/pull/6) (MERGED): A telegram live timer bot (2 weeks ago)
 
--    [Jh123x/telegram-timer-bot: feat: migrate from pyrogram to python-telegram-bot](https://github.com/Jh123x/telegram-timer-bot/pull/5) (MERGED): A telegram live timer bot (1 week ago)
+-    [Jh123x/telegram-timer-bot: feat: migrate from pyrogram to python-telegram-bot](https://github.com/Jh123x/telegram-timer-bot/pull/5) (MERGED): A telegram live timer bot (2 weeks ago)
 
--    [Jh123x/telegram-timer-bot: feat: modernize the way to do countdown](https://github.com/Jh123x/telegram-timer-bot/pull/4) (MERGED): A telegram live timer bot (1 week ago)
+-    [Jh123x/telegram-timer-bot: feat: modernize the way to do countdown](https://github.com/Jh123x/telegram-timer-bot/pull/4) (MERGED): A telegram live timer bot (2 weeks ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (1 week ago)
+- [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (2 weeks ago)
 - [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 weeks ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 months ago)
 
 #### My Latest followers
 
+
+[![WebBrain](https://avatars.githubusercontent.com/u/295484252?u=163e3395cf011ac83c93078607f73a359ee155a3&amp;v=4 "WebBrain Avatar")](https://github.com/webbrain-one)
 
 [![Marcus Tang](https://avatars.githubusercontent.com/u/50147457?u=605faadb1efaa9e2bf8aae1a616ec5df32e58c8a&amp;v=4 "Marcus Tang Avatar")](https://github.com/MarcusTXK)
 
@@ -52,6 +54,4 @@ Skills: Golang / Python / TypeScript.
 [![Ahmed Dabish](https://avatars.githubusercontent.com/u/111189633?u=721369dbeea54b9449ffc50e572f507f05f9c9de&amp;v=4 "Ahmed Dabish Avatar")](https://github.com/AhmedDabish)
 
 [![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/imarjunyadav)
-
-[![Halamji](https://avatars.githubusercontent.com/u/145467335?v=4 "Halamji Avatar")](https://github.com/YuzeHao2023)
 
