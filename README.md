@@ -39,7 +39,7 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (2 weeks ago)
-- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 weeks ago)
+- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (3 weeks ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (2 months ago)
 
 #### My Latest followers
