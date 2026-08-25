@@ -10,7 +10,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 month ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -53,5 +53,5 @@ Skills: Golang / Python / TypeScript.
 
 [![Ahmed Dabish](https://avatars.githubusercontent.com/u/111189633?u=721369dbeea54b9449ffc50e572f507f05f9c9de&amp;v=4 "Ahmed Dabish Avatar")](https://github.com/AhmedDabish)
 
-[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=0d67251f0322eefe218e360bb18d505d559464e8&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/imarjunyadav)
+[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=3b875ebfe356c0d3e7967bc1ae447c95d3735f19&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/imarjunyadav)
 
