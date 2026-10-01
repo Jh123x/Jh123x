@@ -7,11 +7,11 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (3 days ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
+- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (4 days ago)
 - [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (2 weeks ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (3 weeks ago)
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (1 month ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 month ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -28,22 +28,24 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
+-    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (1 day ago)
+
 -    [Prompiler/Prompiler: feat: add multiline string](https://github.com/Prompiler/Prompiler/pull/3) (MERGED): A Prompt Compiler for building prompts (2 weeks ago)
 
 -    [Prompiler/Prompiler: docs: update readme](https://github.com/Prompiler/Prompiler/pull/2) (MERGED): A Prompt Compiler for building prompts (3 weeks ago)
-
--    [Prompiler/Prompiler: feat: add compilation](https://github.com/Prompiler/Prompiler/pull/1) (MERGED): A Prompt Compiler for building prompts (3 weeks ago)
 
 
 #### 📜 My recent blog posts
 
 
 - [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (1 month ago)
-- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (1 month ago)
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (3 months ago)
+- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 months ago)
+- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (4 months ago)
 
 #### My Latest followers
 
+
+[![Ahmad](https://avatars.githubusercontent.com/u/215741707?u=f65bc3b6e43b5749d2397fd0dd6ebc470a14a978&amp;v=4 "Ahmad Avatar")](https://github.com/a4hmad1)
 
 [![EarlyZ](https://avatars.githubusercontent.com/u/77195953?v=4 "EarlyZ Avatar")](https://github.com/EarlyZ-LK)
 
@@ -52,6 +54,4 @@ Skills: Golang / Python / TypeScript.
 [![](https://avatars.githubusercontent.com/u/90913435?u=8cd02fca35cdd6f57977bd1169f93a7a9795333b&amp;v=4 " Avatar")](https://github.com/KKANGsheng)
 
 [![Ahmed Dabish](https://avatars.githubusercontent.com/u/111189633?u=721369dbeea54b9449ffc50e572f507f05f9c9de&amp;v=4 "Ahmed Dabish Avatar")](https://github.com/AhmedDabish)
-
-[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=3b875ebfe356c0d3e7967bc1ae447c95d3735f19&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/imarjunyadav)
 
