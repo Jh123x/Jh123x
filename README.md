@@ -7,11 +7,11 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 day ago)
-- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (4 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 day ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 days ago)
+- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (5 days ago)
 - [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (2 weeks ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (3 weeks ago)
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) - A telegram live timer bot (1 month ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -28,7 +28,7 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (1 day ago)
+-    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (2 days ago)
 
 -    [Prompiler/Prompiler: feat: add multiline string](https://github.com/Prompiler/Prompiler/pull/3) (MERGED): A Prompt Compiler for building prompts (2 weeks ago)
 
