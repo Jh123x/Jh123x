@@ -7,9 +7,9 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 days ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 days ago)
-- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (6 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 days ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 days ago)
+- [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 week ago)
 - [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (2 weeks ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (3 weeks ago)
 
@@ -22,13 +22,13 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 1 month ago) - A telegram live timer bot
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 1 month ago) - A Telegram bot that runs on the browser
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 2 months ago) - A Telegram bot that runs on the browser
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (3 days ago)
+-    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (4 days ago)
 
 -    [Prompiler/Prompiler: feat: add multiline string](https://github.com/Prompiler/Prompiler/pull/3) (MERGED): A Prompt Compiler for building prompts (2 weeks ago)
 
