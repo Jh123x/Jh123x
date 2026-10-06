@@ -7,10 +7,10 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 days ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (5 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (5 days ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (6 days ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 week ago)
-- [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (2 weeks ago)
+- [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (3 weeks ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (4 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -21,24 +21,24 @@ Skills: Golang / Python / TypeScript.
 #### 🔭 Latest releases I've contributed to
 
 
-- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 1 month ago) - A telegram live timer bot
+- [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 2 months ago) - A telegram live timer bot
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 2 months ago) - A Telegram bot that runs on the browser
 - [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (5 days ago)
+-    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (6 days ago)
 
 -    [Prompiler/Prompiler: feat: add multiline string](https://github.com/Prompiler/Prompiler/pull/3) (MERGED): A Prompt Compiler for building prompts (3 weeks ago)
 
--    [Prompiler/Prompiler: docs: update readme](https://github.com/Prompiler/Prompiler/pull/2) (MERGED): A Prompt Compiler for building prompts (3 weeks ago)
+-    [Prompiler/Prompiler: docs: update readme](https://github.com/Prompiler/Prompiler/pull/2) (MERGED): A Prompt Compiler for building prompts (4 weeks ago)
 
 
 #### 📜 My recent blog posts
 
 
-- [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (1 month ago)
+- [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (2 months ago)
 - [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 months ago)
 - [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (4 months ago)
 
