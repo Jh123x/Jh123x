@@ -7,7 +7,7 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (6 days ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 week ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 week ago)
 - [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (3 weeks ago)
@@ -32,7 +32,7 @@ Skills: Golang / Python / TypeScript.
 
 -    [Prompiler/Prompiler: feat: add multiline string](https://github.com/Prompiler/Prompiler/pull/3) (MERGED): A Prompt Compiler for building prompts (3 weeks ago)
 
--    [Prompiler/Prompiler: docs: update readme](https://github.com/Prompiler/Prompiler/pull/2) (MERGED): A Prompt Compiler for building prompts (4 weeks ago)
+-    [Prompiler/Prompiler: docs: update readme](https://github.com/Prompiler/Prompiler/pull/2) (MERGED): A Prompt Compiler for building prompts (1 month ago)
 
 
 #### 📜 My recent blog posts
