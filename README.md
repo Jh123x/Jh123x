@@ -7,11 +7,11 @@ Skills: Golang / Python / TypeScript.
 #### 👷 What I'm currently working on
 
 
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (3 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 week ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 week ago)
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (2 weeks ago)
-- [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (3 weeks ago)
+- [Prompiler/Prompiler](https://github.com/Prompiler/Prompiler) - A Prompt Compiler for building prompts (4 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -28,9 +28,9 @@ Skills: Golang / Python / TypeScript.
 #### Recent MRs
 
 
--    [Jh123x/SG-HYSA-Calculator: Chore/rates 2026 10 09](https://github.com/Jh123x/SG-HYSA-Calculator/pull/69) (MERGED): A High Yield Savings Account Calculator (3 days ago)
+-    [Jh123x/SG-HYSA-Calculator: Chore/rates 2026 10 09](https://github.com/Jh123x/SG-HYSA-Calculator/pull/69) (MERGED): A High Yield Savings Account Calculator (4 days ago)
 
--    [Jh123x/SG-HYSA-Calculator: chore(rates): Citi Wealth First revised T&amp;Cs from 1 Oct 2026](https://github.com/Jh123x/SG-HYSA-Calculator/pull/68) (CLOSED): A High Yield Savings Account Calculator (3 days ago)
+-    [Jh123x/SG-HYSA-Calculator: chore(rates): Citi Wealth First revised T&amp;Cs from 1 Oct 2026](https://github.com/Jh123x/SG-HYSA-Calculator/pull/68) (CLOSED): A High Yield Savings Account Calculator (4 days ago)
 
 -    [Jh123x/data-tool: Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/Jh123x/data-tool/pull/27) (MERGED): An Online Data Manipulation Tool (1 week ago)
 
@@ -45,7 +45,7 @@ Skills: Golang / Python / TypeScript.
 #### My Latest followers
 
 
-[![Ahmad](https://avatars.githubusercontent.com/u/215741707?u=f65bc3b6e43b5749d2397fd0dd6ebc470a14a978&amp;v=4 "Ahmad Avatar")](https://github.com/a4hmad1)
+[![Ahmad](https://avatars.githubusercontent.com/u/215741707?u=0db05bee5f9ec46af0819caf501cb7d5c4309372&amp;v=4 "Ahmad Avatar")](https://github.com/a4hmad1)
 
 [![EarlyZ](https://avatars.githubusercontent.com/u/77195953?v=4 "EarlyZ Avatar")](https://github.com/EarlyZ-LK)
 
