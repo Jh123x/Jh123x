@@ -8,8 +8,8 @@ Skills: Golang / Python / TypeScript.
 
 
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 day ago)
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 day ago)
-- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (5 days ago)
+- [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 day ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 days ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (2 weeks ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (2 weeks ago)
 
@@ -23,24 +23,24 @@ Skills: Golang / Python / TypeScript.
 
 - [Jh123x/telegram-timer-bot](https://github.com/Jh123x/telegram-timer-bot) ([v1.0.1](https://github.com/Jh123x/telegram-timer-bot/releases/tag/v1.0.1), 2 months ago) - A telegram live timer bot
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) ([v1.0.1](https://github.com/Jh123x/telegram-bot-on-browser/releases/tag/v1.0.1), 2 months ago) - A Telegram bot that runs on the browser
-- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 9 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
+- [Jh123x/buildergen](https://github.com/Jh123x/buildergen) ([v0.4.0](https://github.com/Jh123x/buildergen/releases/tag/v0.4.0), 10 months ago) - Buildergen is a code generation tool to create a builder class for generating structs
 
 #### Recent MRs
 
 
--    [Jh123x/data-tool: chore: bump deps](https://github.com/Jh123x/data-tool/pull/35) (OPEN): An Online Data Manipulation Tool (1 day ago)
+-    [Jh123x/data-tool: fix: fix deps](https://github.com/Jh123x/data-tool/pull/36) (MERGED): An Online Data Manipulation Tool (1 day ago)
 
--    [Jh123x/data-tool: Junhua/fix/fix lsp errors](https://github.com/Jh123x/data-tool/pull/34) (MERGED): An Online Data Manipulation Tool (1 day ago)
+-    [Jh123x/data-tool: chore: bump deps](https://github.com/Jh123x/data-tool/pull/35) (CLOSED): An Online Data Manipulation Tool (2 days ago)
 
--    [Jh123x/data-tool: Junhua/fix/fix lsp errors](https://github.com/Jh123x/data-tool/pull/33) (MERGED): An Online Data Manipulation Tool (1 day ago)
+-    [Jh123x/data-tool: Junhua/fix/fix lsp errors](https://github.com/Jh123x/data-tool/pull/34) (MERGED): An Online Data Manipulation Tool (2 days ago)
 
 
 #### 📜 My recent blog posts
 
 
+- [Free AI APIs: A Guide to Free Tiers](https://jh123x.com/blog/2026/free-ai-apis---a-guide-to-free-tiers/) (2 months ago)
 - [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (2 months ago)
 - [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 months ago)
-- [My experience trying out Picoclaw](https://jh123x.com/blog/2026/my-experience-with-picoclaw/) (4 months ago)
 
 #### My Latest followers
 
