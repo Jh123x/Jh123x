@@ -9,9 +9,9 @@ Skills: Golang / Python / TypeScript.
 
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (1 week ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (1 week ago)
-- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (1 week ago)
+- [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 weeks ago)
 - [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (3 weeks ago)
-- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (3 weeks ago)
+- [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (4 weeks ago)
 
 #### 🌱 What I'm currently learning/doing
 - Blogging
@@ -30,9 +30,9 @@ Skills: Golang / Python / TypeScript.
 
 -    [Jh123x/data-tool: fix: fix deps](https://github.com/Jh123x/data-tool/pull/36) (MERGED): An Online Data Manipulation Tool (1 week ago)
 
--    [Jh123x/data-tool: chore: bump deps](https://github.com/Jh123x/data-tool/pull/35) (CLOSED): An Online Data Manipulation Tool (1 week ago)
+-    [Jh123x/data-tool: chore: bump deps](https://github.com/Jh123x/data-tool/pull/35) (CLOSED): An Online Data Manipulation Tool (2 weeks ago)
 
--    [Jh123x/data-tool: Junhua/fix/fix lsp errors](https://github.com/Jh123x/data-tool/pull/34) (MERGED): An Online Data Manipulation Tool (1 week ago)
+-    [Jh123x/data-tool: Junhua/fix/fix lsp errors](https://github.com/Jh123x/data-tool/pull/34) (MERGED): An Online Data Manipulation Tool (2 weeks ago)
 
 
 #### 📜 My recent blog posts
