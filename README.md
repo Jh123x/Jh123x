@@ -10,7 +10,7 @@ Skills: Golang / Python / TypeScript.
 - [Jh123x/data-tool](https://github.com/Jh123x/data-tool) - An Online Data Manipulation Tool (2 weeks ago)
 - [Jh123x/SG-HYSA-Calculator](https://github.com/Jh123x/SG-HYSA-Calculator) - A High Yield Savings Account Calculator (2 weeks ago)
 - [Jh123x/nvim-config](https://github.com/Jh123x/nvim-config) -  (2 weeks ago)
-- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (4 weeks ago)
+- [Jh123x/jh123x.github.io](https://github.com/Jh123x/jh123x.github.io) - Website to Show my projects / competitions (1 month ago)
 - [Jh123x/telegram-bot-on-browser](https://github.com/Jh123x/telegram-bot-on-browser) - A Telegram bot that runs on the browser (1 month ago)
 
 #### 🌱 What I'm currently learning/doing
@@ -40,7 +40,7 @@ Skills: Golang / Python / TypeScript.
 
 - [Free AI APIs: A Guide to Free Tiers](https://jh123x.com/blog/2026/free-ai-apis---a-guide-to-free-tiers/) (2 months ago)
 - [Modernising the Live Countdown Telegram Bot](https://jh123x.com/blog/2026/modernising-the-live-countdown-telegram-bot/) (2 months ago)
-- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (2 months ago)
+- [What I Learnt Revamping the Telegram Bot on a Browser](https://jh123x.com/blog/2026/what-i-learnt-revamping-the-telegram-bot-on-a-browser/) (3 months ago)
 
 #### My Latest followers
 
