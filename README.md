@@ -53,5 +53,5 @@ Skills: Golang / Python / TypeScript.
 
 [![](https://avatars.githubusercontent.com/u/90913435?u=8cd02fca35cdd6f57977bd1169f93a7a9795333b&amp;v=4 " Avatar")](https://github.com/KKANGsheng)
 
-[![Ahmed Dabish](https://avatars.githubusercontent.com/u/111189633?u=721369dbeea54b9449ffc50e572f507f05f9c9de&amp;v=4 "Ahmed Dabish Avatar")](https://github.com/AhmedDabish)
+[![Arjun Yadav ](https://avatars.githubusercontent.com/u/154298931?u=3b875ebfe356c0d3e7967bc1ae447c95d3735f19&amp;v=4 "Arjun Yadav  Avatar")](https://github.com/imarjunyadav)
 
